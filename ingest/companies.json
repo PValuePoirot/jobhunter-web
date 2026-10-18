@@ -1,0 +1,1174 @@
+{
+ "_note": "tier 1 = instant ping, 2 = instant ping, 3 = digest. ats: greenhouse|ashby|lever|workday|workable|amazon|netflix|atlassian|manual",
+ "companies": [
+  {
+   "name": "Anthropic",
+   "ats": "greenhouse",
+   "tier": 1,
+   "slug": "anthropic"
+  },
+  {
+   "name": "OpenAI",
+   "ats": "ashby",
+   "tier": 1,
+   "slug": "openai"
+  },
+  {
+   "name": "Databricks",
+   "ats": "greenhouse",
+   "tier": 1,
+   "slug": "databricks"
+  },
+  {
+   "name": "Stripe",
+   "ats": "greenhouse",
+   "tier": 1,
+   "slug": "stripe"
+  },
+  {
+   "name": "Glean",
+   "ats": "greenhouse",
+   "tier": 1,
+   "slug": "gleanwork"
+  },
+  {
+   "name": "Sarvam AI",
+   "ats": "ashby",
+   "tier": 1,
+   "slug": "sarvam"
+  },
+  {
+   "name": "xAI",
+   "ats": "greenhouse",
+   "tier": 1,
+   "slug": "xai"
+  },
+  {
+   "name": "Cohere",
+   "ats": "ashby",
+   "tier": 1,
+   "slug": "cohere"
+  },
+  {
+   "name": "Perplexity",
+   "ats": "ashby",
+   "tier": 1,
+   "slug": "perplexity"
+  },
+  {
+   "name": "ElevenLabs",
+   "ats": "ashby",
+   "tier": 1,
+   "slug": "elevenlabs"
+  },
+  {
+   "name": "Harvey",
+   "ats": "ashby",
+   "tier": 1,
+   "slug": "harvey"
+  },
+  {
+   "name": "Sierra",
+   "ats": "ashby",
+   "tier": 1,
+   "slug": "sierra"
+  },
+  {
+   "name": "Decagon",
+   "ats": "ashby",
+   "tier": 1,
+   "slug": "decagon"
+  },
+  {
+   "name": "Scale AI",
+   "ats": "greenhouse",
+   "tier": 1,
+   "slug": "scaleai"
+  },
+  {
+   "name": "Palantir",
+   "ats": "lever",
+   "tier": 1,
+   "slug": "palantir"
+  },
+  {
+   "name": "Together AI",
+   "ats": "greenhouse",
+   "tier": 1,
+   "slug": "togetherai"
+  },
+  {
+   "name": "Hugging Face",
+   "ats": "workable",
+   "tier": 1,
+   "slug": "huggingface",
+   "every_min": 120
+  },
+  {
+   "name": "NVIDIA",
+   "ats": "workday",
+   "tier": 1,
+   "tenant": "nvidia",
+   "wd": 5,
+   "site": "NVIDIAExternalCareerSite",
+   "every_min": 120
+  },
+  {
+   "name": "Amazon",
+   "ats": "amazon",
+   "tier": 1,
+   "every_min": 120
+  },
+  {
+   "name": "Netflix",
+   "ats": "netflix",
+   "tier": 1,
+   "every_min": 120
+  },
+  {
+   "name": "Airbnb",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "airbnb"
+  },
+  {
+   "name": "Coinbase",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "coinbase"
+  },
+  {
+   "name": "Okta",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "okta"
+  },
+  {
+   "name": "Rubrik",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "rubrik"
+  },
+  {
+   "name": "Meesho",
+   "ats": "lever",
+   "tier": 2,
+   "slug": "meesho"
+  },
+  {
+   "name": "Datadog",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "datadog"
+  },
+  {
+   "name": "Cloudflare",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "cloudflare"
+  },
+  {
+   "name": "MongoDB",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "mongodb"
+  },
+  {
+   "name": "Elastic",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "elastic"
+  },
+  {
+   "name": "Samsara",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "samsara"
+  },
+  {
+   "name": "Roblox",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "roblox"
+  },
+  {
+   "name": "Pinterest",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "pinterest"
+  },
+  {
+   "name": "Figma",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "figma"
+  },
+  {
+   "name": "Reddit",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "reddit"
+  },
+  {
+   "name": "Wise",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "wise"
+  },
+  {
+   "name": "Adyen",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "adyen"
+  },
+  {
+   "name": "Waymo",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "waymo"
+  },
+  {
+   "name": "Canonical",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "canonical"
+  },
+  {
+   "name": "Zscaler",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "zscaler"
+  },
+  {
+   "name": "Razorpay",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "razorpaysoftwareprivatelimited"
+  },
+  {
+   "name": "Spotify",
+   "ats": "lever",
+   "tier": 2,
+   "slug": "spotify"
+  },
+  {
+   "name": "Notion",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "notion"
+  },
+  {
+   "name": "Ramp",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "ramp"
+  },
+  {
+   "name": "Brex",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "brex"
+  },
+  {
+   "name": "Writer",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "writer"
+  },
+  {
+   "name": "Lovable",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "lovable"
+  },
+  {
+   "name": "Modal",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "modal"
+  },
+  {
+   "name": "Vercel",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "vercel"
+  },
+  {
+   "name": "Supabase",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "supabase"
+  },
+  {
+   "name": "DoorDash",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "doordashusa"
+  },
+  {
+   "name": "Instacart",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "instacart"
+  },
+  {
+   "name": "Lyft",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "lyft"
+  },
+  {
+   "name": "Robinhood",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "robinhood"
+  },
+  {
+   "name": "Block",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "block"
+  },
+  {
+   "name": "Twilio",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "twilio"
+  },
+  {
+   "name": "GitLab",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "gitlab"
+  },
+  {
+   "name": "Asana",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "asana"
+  },
+  {
+   "name": "Replit",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "replit"
+  },
+  {
+   "name": "Linear",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "linear"
+  },
+  {
+   "name": "Paytm",
+   "ats": "lever",
+   "tier": 2,
+   "slug": "paytm"
+  },
+  {
+   "name": "Affirm",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "affirm"
+  },
+  {
+   "name": "Toast",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "toast"
+  },
+  {
+   "name": "Fivetran",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "fivetran"
+  },
+  {
+   "name": "Epic Games",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "epicgames"
+  },
+  {
+   "name": "Riot Games",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "riotgames"
+  },
+  {
+   "name": "Verkada",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "verkada"
+  },
+  {
+   "name": "Atlassian",
+   "ats": "atlassian",
+   "tier": 2
+  },
+  {
+   "name": "Adobe",
+   "ats": "workday",
+   "tier": 2,
+   "tenant": "adobe",
+   "wd": 5,
+   "site": "external_experienced",
+   "every_min": 120
+  },
+  {
+   "name": "Salesforce",
+   "ats": "workday",
+   "tier": 2,
+   "tenant": "salesforce",
+   "wd": 12,
+   "site": "External_Career_Site",
+   "every_min": 120
+  },
+  {
+   "name": "Mastercard",
+   "ats": "workday",
+   "tier": 2,
+   "tenant": "mastercard",
+   "wd": 1,
+   "site": "CorporateCareers",
+   "every_min": 120
+  },
+  {
+   "name": "Capital One",
+   "ats": "workday",
+   "tier": 2,
+   "tenant": "capitalone",
+   "wd": 12,
+   "site": "Capital_One",
+   "every_min": 120
+  },
+  {
+   "name": "Cisco",
+   "ats": "workday",
+   "tier": 2,
+   "tenant": "cisco",
+   "wd": 5,
+   "site": "Cisco_Careers",
+   "every_min": 120
+  },
+  {
+   "name": "Citi",
+   "ats": "workday",
+   "tier": 2,
+   "tenant": "citi",
+   "wd": 5,
+   "site": "2",
+   "every_min": 120
+  },
+  {
+   "name": "Intel",
+   "ats": "workday",
+   "tier": 2,
+   "tenant": "intel",
+   "wd": 1,
+   "site": "External",
+   "every_min": 120
+  },
+  {
+   "name": "PayPal",
+   "ats": "workday",
+   "tier": 2,
+   "tenant": "paypal",
+   "wd": 1,
+   "site": "jobs",
+   "every_min": 120
+  },
+  {
+   "name": "eBay",
+   "ats": "workday",
+   "tier": 2,
+   "tenant": "ebay",
+   "wd": 5,
+   "site": "apply",
+   "every_min": 120
+  },
+  {
+   "name": "Autodesk",
+   "ats": "workday",
+   "tier": 2,
+   "tenant": "autodesk",
+   "wd": 1,
+   "site": "Ext",
+   "every_min": 120
+  },
+  {
+   "name": "Lowe's",
+   "ats": "workday",
+   "tier": 3,
+   "tenant": "lowes",
+   "wd": 5,
+   "site": "LWS_External_CS",
+   "every_min": 120
+  },
+  {
+   "name": "Wells Fargo",
+   "ats": "workday",
+   "tier": 3,
+   "tenant": "wf",
+   "wd": 1,
+   "site": "WellsFargoJobs",
+   "every_min": 120
+  },
+  {
+   "name": "State Street",
+   "ats": "workday",
+   "tier": 3,
+   "tenant": "statestreet",
+   "wd": 1,
+   "site": "Global",
+   "every_min": 120
+  },
+  {
+   "name": "HP",
+   "ats": "workday",
+   "tier": 3,
+   "tenant": "hp",
+   "wd": 5,
+   "site": "ExternalCareerSite",
+   "every_min": 120
+  },
+  {
+   "name": "6sense",
+   "ats": "greenhouse",
+   "tier": 3,
+   "slug": "6sense"
+  },
+  {
+   "name": "Airbyte",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "airbyte"
+  },
+  {
+   "name": "Airwallex",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "airwallex"
+  },
+  {
+   "name": "Algolia",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "algolia"
+  },
+  {
+   "name": "Amplitude",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "amplitude"
+  },
+  {
+   "name": "AssemblyAI",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "assemblyai"
+  },
+  {
+   "name": "Baseten",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "baseten"
+  },
+  {
+   "name": "Benchling",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "benchling"
+  },
+  {
+   "name": "Careem",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "careem"
+  },
+  {
+   "name": "Celonis",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "celonis"
+  },
+  {
+   "name": "Cerebras",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "cerebras"
+  },
+  {
+   "name": "Chime",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "chime"
+  },
+  {
+   "name": "CircleCI",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "circleci"
+  },
+  {
+   "name": "Cognition",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "cognition"
+  },
+  {
+   "name": "Contentsquare",
+   "ats": "lever",
+   "tier": 2,
+   "slug": "contentsquare"
+  },
+  {
+   "name": "CoreWeave",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "coreweave"
+  },
+  {
+   "name": "Cred",
+   "ats": "lever",
+   "tier": 2,
+   "slug": "cred"
+  },
+  {
+   "name": "Crusoe",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "crusoe"
+  },
+  {
+   "name": "Dataiku",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "dataiku"
+  },
+  {
+   "name": "Deepgram",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "deepgram"
+  },
+  {
+   "name": "DeepL",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "deepl"
+  },
+  {
+   "name": "Deliveroo",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "deliveroo"
+  },
+  {
+   "name": "Descript",
+   "ats": "greenhouse",
+   "tier": 3,
+   "slug": "descript"
+  },
+  {
+   "name": "Doctolib",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "doctolib"
+  },
+  {
+   "name": "Druva",
+   "ats": "greenhouse",
+   "tier": 3,
+   "slug": "druva"
+  },
+  {
+   "name": "Fastly",
+   "ats": "greenhouse",
+   "tier": 3,
+   "slug": "fastly"
+  },
+  {
+   "name": "Fireworks AI",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "fireworks"
+  },
+  {
+   "name": "Gamma",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "gamma"
+  },
+  {
+   "name": "Graphcore",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "graphcore"
+  },
+  {
+   "name": "Groww",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "groww"
+  },
+  {
+   "name": "Helsing",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "helsing"
+  },
+  {
+   "name": "Hex",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "hex"
+  },
+  {
+   "name": "HeyGen",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "heygen"
+  },
+  {
+   "name": "InMobi",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "inmobi"
+  },
+  {
+   "name": "Insitro",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "insitro"
+  },
+  {
+   "name": "Intercom",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "intercom"
+  },
+  {
+   "name": "Invisible Technologies",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "invisibletech"
+  },
+  {
+   "name": "Labelbox",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "labelbox"
+  },
+  {
+   "name": "Lambda",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "lambda"
+  },
+  {
+   "name": "LangChain",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "langchain"
+  },
+  {
+   "name": "LaunchDarkly",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "launchdarkly"
+  },
+  {
+   "name": "Midjourney",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "midjourney"
+  },
+  {
+   "name": "Miro",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "miro"
+  },
+  {
+   "name": "Mollie",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "mollie"
+  },
+  {
+   "name": "Monzo",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "monzo"
+  },
+  {
+   "name": "N26",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "n26"
+  },
+  {
+   "name": "n8n",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "n8n"
+  },
+  {
+   "name": "Navi",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "navi"
+  },
+  {
+   "name": "Nebius",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "nebius"
+  },
+  {
+   "name": "New Relic",
+   "ats": "greenhouse",
+   "tier": 3,
+   "slug": "newrelic"
+  },
+  {
+   "name": "Nium",
+   "ats": "lever",
+   "tier": 2,
+   "slug": "nium"
+  },
+  {
+   "name": "Observe.AI",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "observeai"
+  },
+  {
+   "name": "Otter",
+   "ats": "greenhouse",
+   "tier": 3,
+   "slug": "otter"
+  },
+  {
+   "name": "Outreach",
+   "ats": "lever",
+   "tier": 3,
+   "slug": "outreach"
+  },
+  {
+   "name": "Owkin",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "owkin"
+  },
+  {
+   "name": "Pagerduty",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "pagerduty"
+  },
+  {
+   "name": "Photoroom",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "photoroom"
+  },
+  {
+   "name": "Pinecone",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "pinecone"
+  },
+  {
+   "name": "Plaid",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "plaid"
+  },
+  {
+   "name": "PlanetScale",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "planetscale"
+  },
+  {
+   "name": "Poolside",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "poolside"
+  },
+  {
+   "name": "PostHog",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "posthog"
+  },
+  {
+   "name": "Render",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "render"
+  },
+  {
+   "name": "Salesloft",
+   "ats": "greenhouse",
+   "tier": 3,
+   "slug": "salesloft"
+  },
+  {
+   "name": "Sentry",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "sentry"
+  },
+  {
+   "name": "Sigmoid",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "sigmoid"
+  },
+  {
+   "name": "Snorkel AI",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "snorkelai"
+  },
+  {
+   "name": "Snyk",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "snyk"
+  },
+  {
+   "name": "Stability AI",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "stabilityai"
+  },
+  {
+   "name": "Synthesia",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "synthesia"
+  },
+  {
+   "name": "Tamara",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "tamara"
+  },
+  {
+   "name": "Temporal",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "temporal"
+  },
+  {
+   "name": "Thoughtworks",
+   "ats": "greenhouse",
+   "tier": 3,
+   "slug": "thoughtworks"
+  },
+  {
+   "name": "Turing",
+   "ats": "greenhouse",
+   "tier": 2,
+   "slug": "turing"
+  },
+  {
+   "name": "Twitch",
+   "ats": "greenhouse",
+   "tier": 3,
+   "slug": "twitch"
+  },
+  {
+   "name": "Wayve",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "wayve"
+  },
+  {
+   "name": "Weaviate",
+   "ats": "ashby",
+   "tier": 2,
+   "slug": "weaviate"
+  },
+  {
+   "name": "ZoomInfo",
+   "ats": "greenhouse",
+   "tier": 3,
+   "slug": "zoominfo"
+  },
+  {
+   "name": "Google",
+   "ats": "manual",
+   "tier": 1,
+   "url": "https://www.google.com/about/careers/applications/jobs/results/?q=ai%20engineer&location=India"
+  },
+  {
+   "name": "Meta",
+   "ats": "manual",
+   "tier": 1,
+   "url": "https://www.metacareers.com/jobs"
+  },
+  {
+   "name": "Microsoft",
+   "ats": "manual",
+   "tier": 1,
+   "url": "https://jobs.careers.microsoft.com/global/en/search?q=ai%20engineer&lc=India"
+  },
+  {
+   "name": "Apple",
+   "ats": "manual",
+   "tier": 2,
+   "url": "https://jobs.apple.com/en-in/search?location=india-INDC"
+  },
+  {
+   "name": "Uber",
+   "ats": "manual",
+   "tier": 2,
+   "url": "https://www.uber.com/in/en/careers/list/?query=machine%20learning"
+  },
+  {
+   "name": "Snowflake",
+   "ats": "manual",
+   "tier": 2,
+   "url": "https://careers.snowflake.com/us/en/search-results"
+  },
+  {
+   "name": "Goldman Sachs",
+   "ats": "manual",
+   "tier": 2,
+   "url": "https://www.goldmansachs.com/careers/"
+  },
+  {
+   "name": "Two Sigma",
+   "ats": "manual",
+   "tier": 2,
+   "url": "https://careers.twosigma.com/careers/SearchJobs"
+  },
+  {
+   "name": "American Express",
+   "ats": "manual",
+   "tier": 2,
+   "url": "https://www.americanexpress.com/en-us/careers/"
+  },
+  {
+   "name": "Walmart Global Tech",
+   "ats": "manual",
+   "tier": 2,
+   "url": "https://careers.walmart.com/"
+  },
+  {
+   "name": "Oracle",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://careers.oracle.com/jobs"
+  },
+  {
+   "name": "IBM",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://www.ibm.com/careers/search"
+  },
+  {
+   "name": "SAP",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://jobs.sap.com/"
+  },
+  {
+   "name": "PepsiCo",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://www.pepsicojobs.com/"
+  },
+  {
+   "name": "Optum",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://careers.unitedhealthgroup.com/"
+  },
+  {
+   "name": "Flipkart",
+   "ats": "manual",
+   "tier": 2,
+   "url": "https://www.flipkartcareers.com/"
+  },
+  {
+   "name": "PhonePe",
+   "ats": "manual",
+   "tier": 2,
+   "url": "https://www.phonepe.com/careers/"
+  },
+  {
+   "name": "Tata Capital",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://www.tatacapital.com/careers.html"
+  },
+  {
+   "name": "IDFC First Bank",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://www.idfcfirstbank.com/careers"
+  },
+  {
+   "name": "Naukri",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://www.naukri.com/",
+   "board": true
+  },
+  {
+   "name": "Indeed India",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://in.indeed.com/",
+   "board": true
+  },
+  {
+   "name": "foundit",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://www.foundit.in/",
+   "board": true
+  },
+  {
+   "name": "Shine",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://www.shine.com/",
+   "board": true
+  },
+  {
+   "name": "Instahyre",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://www.instahyre.com/",
+   "board": true
+  },
+  {
+   "name": "Hirist",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://www.hirist.tech/",
+   "board": true
+  },
+  {
+   "name": "Cutshort",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://cutshort.io/",
+   "board": true
+  },
+  {
+   "name": "TopHire",
+   "ats": "manual",
+   "tier": 3,
+   "url": "https://tophire.co/",
+   "board": true
+  }
+ ]
+}

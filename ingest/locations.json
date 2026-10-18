@@ -1,0 +1,3343 @@
+{
+ "_meta": {
+  "generated": "2026-10-18",
+  "method": "Knowledge + two web searches (H-1B status, German Blue Card 2026 thresholds); other visa routes cited from official portal landing pages listed in sources but NOT individually re-fetched this session - verify thresholds before relying on them.",
+  "tiers": "UK/Ireland/Switzerland/Nordics are tier 'ok' (per brief) but still in the europe track; 'tier' is a preference weight, 'track' is the matching bucket.",
+  "classes": [
+   "india",
+   "singapore",
+   "uae",
+   "europe",
+   "other_ok",
+   "remote_global",
+   "regional",
+   "us_optional",
+   "excluded",
+   "other_region",
+   "placeholder",
+   "unclassified"
+  ],
+  "suggested_priority": "india > singapore > uae > europe > other_ok > remote_global > regional > us_optional; excluded/other_region/placeholder/unclassified are not alerts.",
+  "us_decision": "United States is tier 'ok' with high_volume_hard_visa=true in its own track 'us_optional', not in other_ok. Trade-off: ~56% of sampled postings are US but H-1B is a lottery (wage-weighted selection from FY2027) and a USD 100k payment applies to certain new petitions (Proclamation of Sept 2025; confirm current status on USCIS). Default: show only if sponsorship/relocation is stated."
+ },
+ "tracks": {
+  "india": [
+   "agra",
+   "ahmedabad",
+   "amritsar",
+   "andheri",
+   "andhra pradesh",
+   "bandra",
+   "baner",
+   "bangalore",
+   "belagavi",
+   "bellandur",
+   "bengalore",
+   "bengaluru",
+   "bharat",
+   "bhopal",
+   "bhubaneshwar",
+   "bhubaneswar",
+   "bkc",
+   "calcutta",
+   "calicut",
+   "chandigarh",
+   "chennai",
+   "cochin",
+   "coimbatore",
+   "dehradun",
+   "delhi",
+   "delhi ncr",
+   "electronic city",
+   "ernakulam",
+   "faridabad",
+   "gandhinagar",
+   "gautam buddh nagar",
+   "ghaziabad",
+   "greater noida",
+   "gujarat",
+   "gurgaon",
+   "gurugram",
+   "guwahati",
+   "haryana",
+   "hinjewadi",
+   "hitec city",
+   "hubli",
+   "hyderabad",
+   "ind",
+   "india",
+   "indore",
+   "jaipur",
+   "jalandhar",
+   "jamshedpur",
+   "jodhpur",
+   "kakinada",
+   "kanpur",
+   "karnataka",
+   "kerala",
+   "kharadi",
+   "kochi",
+   "kolkata",
+   "koramangala",
+   "kozhikode",
+   "lower parel",
+   "lucknow",
+   "ludhiana",
+   "madhya pradesh",
+   "madurai",
+   "maharashtra",
+   "manesar",
+   "mangalore",
+   "mangaluru",
+   "meerut",
+   "mohali",
+   "mumbai",
+   "mysore",
+   "mysuru",
+   "nagpur",
+   "nashik",
+   "national capital region",
+   "navi mumbai",
+   "ncr",
+   "ncr region",
+   "new delhi",
+   "noida",
+   "odisha",
+   "pan india",
+   "panaji",
+   "panchkula",
+   "patna",
+   "powai",
+   "pune",
+   "raipur",
+   "rajasthan",
+   "ranchi",
+   "rohtak",
+   "secunderabad",
+   "sonipat",
+   "surat",
+   "tamil nadu",
+   "technopark",
+   "telangana",
+   "thane",
+   "thiruvananthapuram",
+   "thrissur",
+   "tiruchirappalli",
+   "trichy",
+   "trivandrum",
+   "udaipur",
+   "uttar pradesh",
+   "vadodara",
+   "varanasi",
+   "vellore",
+   "vijayawada",
+   "visakhapatnam",
+   "vizag",
+   "warangal",
+   "west bengal",
+   "whitefield"
+  ],
+  "europe": [
+   "a coruna",
+   "aachen",
+   "aalborg",
+   "aarhus",
+   "aberdeen",
+   "aix-en-provence",
+   "alicante",
+   "almere",
+   "amersfoort",
+   "amstelveen",
+   "amsterdam",
+   "angers",
+   "annecy",
+   "antibes",
+   "antwerp",
+   "arnhem",
+   "augsburg",
+   "austria",
+   "avignon",
+   "baar",
+   "baden-wurttemberg",
+   "ballerup",
+   "barcelona",
+   "bari",
+   "basel",
+   "bavaria",
+   "bayern",
+   "belgie",
+   "belgique",
+   "belgium",
+   "belgrade",
+   "bergamo",
+   "bergen",
+   "berlin",
+   "bern",
+   "bgr",
+   "bialystok",
+   "bielefeld",
+   "bilbao",
+   "bochum",
+   "bologna",
+   "bonn",
+   "bordeaux",
+   "boulogne-billancourt",
+   "bracknell",
+   "braga",
+   "brasov",
+   "bratislava",
+   "breda",
+   "bremen",
+   "brescia",
+   "brest",
+   "brighton",
+   "britain",
+   "brno",
+   "bruges",
+   "brugge",
+   "brussel",
+   "brussels",
+   "bruxelles",
+   "bucharest",
+   "bucuresti",
+   "budapest",
+   "bulgaria",
+   "burgas",
+   "bydgoszcz",
+   "caen",
+   "cagliari",
+   "canary wharf",
+   "cannes",
+   "cardiff",
+   "cascais",
+   "castellon",
+   "catalonia",
+   "catalunya",
+   "catania",
+   "charleroi",
+   "che",
+   "cheltenham",
+   "clermont-ferrand",
+   "cluj",
+   "cluj-napoca",
+   "coimbra",
+   "cologne",
+   "copenhagen",
+   "coventry",
+   "croatia",
+   "croydon",
+   "cyp",
+   "cyprus",
+   "cze",
+   "czech",
+   "czech republic",
+   "czechia",
+   "danmark",
+   "darmstadt",
+   "debrecen",
+   "delft",
+   "den haag",
+   "denmark",
+   "deu",
+   "deutschland",
+   "didcot",
+   "diegem",
+   "dijon",
+   "dnk",
+   "dornbirn",
+   "dortmund",
+   "dresden",
+   "dubendorf",
+   "dusseldorf",
+   "edinburgh",
+   "eesti",
+   "eindhoven",
+   "eire",
+   "emilia-romagna",
+   "england",
+   "enschede",
+   "erlangen",
+   "esbjerg",
+   "esch-sur-alzette",
+   "espana",
+   "espoo",
+   "essen",
+   "estonia",
+   "exeter",
+   "faro",
+   "federal republic of germany",
+   "finland",
+   "firenze",
+   "flanders",
+   "florence",
+   "fornebu",
+   "fra",
+   "france",
+   "frankfurt",
+   "frankfurt am main",
+   "frederiksberg",
+   "freiburg",
+   "french republic",
+   "fribourg",
+   "funchal",
+   "galway",
+   "garching",
+   "gbr",
+   "gdansk",
+   "gdynia",
+   "geneva",
+   "geneve",
+   "genoa",
+   "genova",
+   "gent",
+   "germany",
+   "ghent",
+   "girona",
+   "goteborg",
+   "gothenburg",
+   "granada",
+   "graz",
+   "grc",
+   "great britain",
+   "greece",
+   "grenoble",
+   "groningen",
+   "guildford",
+   "haarlem",
+   "hagenberg",
+   "hamburg",
+   "hannover",
+   "hanover",
+   "harwell",
+   "hasselt",
+   "heidelberg",
+   "hellas",
+   "helsinki",
+   "hilversum",
+   "holland",
+   "hrv",
+   "hrvatska",
+   "hun",
+   "hungary",
+   "iasi",
+   "iceland",
+   "ile-de-france",
+   "ingolstadt",
+   "innsbruck",
+   "inverness",
+   "ireland",
+   "irl",
+   "isl",
+   "issy-les-moulineaux",
+   "ita",
+   "italia",
+   "italy",
+   "jena",
+   "jonkoping",
+   "jyvaskyla",
+   "karlskrona",
+   "karlsruhe",
+   "katowice",
+   "kaunas",
+   "keflavik",
+   "kiel",
+   "kista",
+   "klagenfurt",
+   "klaipeda",
+   "koln",
+   "kongens lyngby",
+   "kosice",
+   "krakow",
+   "kristiansand",
+   "kuopio",
+   "københavn",
+   "la defense",
+   "lahti",
+   "larnaca",
+   "las palmas",
+   "latvia",
+   "lausanne",
+   "lausanne fr",
+   "lazio",
+   "leeds",
+   "leicester",
+   "leiden",
+   "leinster",
+   "leipzig",
+   "leuven",
+   "levallois-perret",
+   "liege",
+   "lille",
+   "limassol",
+   "limerick",
+   "limoges",
+   "linkoping",
+   "linz",
+   "lisboa",
+   "lisbon",
+   "lithuania",
+   "liverpool",
+   "ljubljana",
+   "lodz",
+   "lombardia",
+   "lombardy",
+   "london uk",
+   "ltu",
+   "lublin",
+   "lucerne",
+   "ludwigsburg",
+   "lugano",
+   "lund",
+   "luton",
+   "lux",
+   "luxembourg",
+   "luxembourg city",
+   "luzern",
+   "lva",
+   "lyngby",
+   "maastricht",
+   "madeira",
+   "madrid",
+   "magyarorszag",
+   "mainz",
+   "malaga",
+   "malmo",
+   "malta",
+   "mannheim",
+   "maribor",
+   "marseille",
+   "mechelen",
+   "metz",
+   "milano",
+   "milton keynes",
+   "mlt",
+   "modena",
+   "montpellier",
+   "munchen",
+   "munich",
+   "munster",
+   "murcia",
+   "namur",
+   "nancy",
+   "nanterre",
+   "nantes",
+   "napoli",
+   "nederland",
+   "netherlands",
+   "neuchatel",
+   "nicosia",
+   "nijmegen",
+   "nimes",
+   "niort",
+   "nis",
+   "nld",
+   "noord-holland",
+   "norge",
+   "norrkoping",
+   "north holland",
+   "north rhine-westphalia",
+   "northern ireland",
+   "norway",
+   "norwich",
+   "nottingham",
+   "novi sad",
+   "nrw",
+   "nuremberg",
+   "nurnberg",
+   "odense",
+   "oeiras",
+   "oldenburg",
+   "orebro",
+   "osijek",
+   "oslo",
+   "osterreich",
+   "ostrava",
+   "oulu",
+   "padova",
+   "padua",
+   "palermo",
+   "palma",
+   "pamplona",
+   "parma",
+   "patras",
+   "piedmont",
+   "pisa",
+   "plovdiv",
+   "poitiers",
+   "poland",
+   "polska",
+   "porto",
+   "portugal",
+   "potsdam",
+   "poznan",
+   "prague",
+   "praha",
+   "prt",
+   "regensburg",
+   "rennes",
+   "republic of ireland",
+   "reykjanesbaer",
+   "reykjavik",
+   "riga",
+   "rijeka",
+   "roma",
+   "romania",
+   "roskilde",
+   "rostock",
+   "rotterdam",
+   "rou",
+   "roubaix",
+   "rouen",
+   "rzeszow",
+   "saarbrucken",
+   "saclay",
+   "saint-denis",
+   "salzburg",
+   "san sebastian",
+   "santander",
+   "schlieren",
+   "schweiz",
+   "scotland",
+   "serbia",
+   "sevilla",
+   "seville",
+   "sheffield",
+   "shoreditch",
+   "sion",
+   "sliema",
+   "slough",
+   "slovak republic",
+   "slovakia",
+   "slovenia",
+   "sofia",
+   "solna",
+   "sophia antipolis",
+   "southampton",
+   "spain",
+   "split",
+   "srb",
+   "st gallen",
+   "st julian's",
+   "st. gallen",
+   "stavanger",
+   "stevenage",
+   "stockholm",
+   "strasbourg",
+   "stuttgart",
+   "suisse",
+   "sundbyberg",
+   "suomi",
+   "sverige",
+   "svizzera",
+   "svk",
+   "svn",
+   "swansea",
+   "swe",
+   "sweden",
+   "switzerland",
+   "szczecin",
+   "szeged",
+   "tallinn",
+   "tampere",
+   "tartu",
+   "tenerife",
+   "the hague",
+   "the netherlands",
+   "thessaloniki",
+   "tilburg",
+   "timisoara",
+   "torino",
+   "torun",
+   "toulouse",
+   "tours",
+   "trento",
+   "trieste",
+   "tromsø",
+   "trondheim",
+   "turin",
+   "turku",
+   "tuscany",
+   "u.k.",
+   "uk",
+   "ulm",
+   "united kingdom",
+   "uppsala",
+   "utrecht",
+   "uxbridge",
+   "valbonne",
+   "valladolid",
+   "valletta",
+   "vantaa",
+   "varese",
+   "varna",
+   "vasteras",
+   "veldhoven",
+   "veneto",
+   "verona",
+   "vigo",
+   "villeneuve-d'ascq",
+   "vilnius",
+   "vitoria",
+   "wales",
+   "walldorf",
+   "wallisellen",
+   "warsaw",
+   "waterford",
+   "watford",
+   "wien",
+   "wiesbaden",
+   "winterthur",
+   "wolfsburg",
+   "wroclaw",
+   "wrocław",
+   "zagreb",
+   "zaragoza",
+   "zaventem",
+   "zug",
+   "zuid-holland",
+   "zurich",
+   "zwolle",
+   "łodz"
+  ],
+  "singapore": [
+   "sgp",
+   "singapore"
+  ],
+  "uae": [
+   "abu dhabi",
+   "ajman",
+   "are",
+   "difc",
+   "dubai",
+   "emirates",
+   "masdar",
+   "ras al khaimah",
+   "sharjah",
+   "u.a.e",
+   "uae",
+   "united arab emirates"
+  ],
+  "other_ok": [
+   "adelaide",
+   "al khobar",
+   "alberta",
+   "aotearoa",
+   "arg",
+   "argentina",
+   "auckland",
+   "australia",
+   "bahrain",
+   "bali",
+   "bandung",
+   "bangkok",
+   "barueri",
+   "belo horizonte",
+   "bhr",
+   "bogota",
+   "bonifacio global city",
+   "bra",
+   "brampton",
+   "brasil",
+   "brasilia",
+   "brazil",
+   "brisbane",
+   "british columbia",
+   "buenos aires",
+   "burlington ontario",
+   "burnaby",
+   "busan",
+   "calgary",
+   "campinas",
+   "canada",
+   "canadian",
+   "canberra",
+   "cape town",
+   "cdmx",
+   "cebu",
+   "central hong kong",
+   "chiang mai",
+   "chiba",
+   "chile",
+   "christchurch",
+   "ciudad de mexico",
+   "colombia",
+   "cordoba argentina",
+   "curitiba",
+   "cyberjaya",
+   "cyberport",
+   "da nang",
+   "daejeon",
+   "dammam",
+   "darwin",
+   "denpasar",
+   "doha",
+   "durban",
+   "edmonton",
+   "florianopolis",
+   "fortaleza",
+   "fukuoka",
+   "gatineau",
+   "goiania",
+   "gold coast",
+   "guadalajara",
+   "guelph",
+   "halifax",
+   "hamilton ontario",
+   "hanoi",
+   "hiroshima",
+   "hkg",
+   "hksar",
+   "ho chi minh",
+   "ho chi minh city",
+   "hobart",
+   "hong kong",
+   "hsinchu",
+   "idn",
+   "incheon",
+   "indonesia",
+   "jakarta",
+   "japan",
+   "jeddah",
+   "johannesburg",
+   "johor bahru",
+   "jpn",
+   "kaohsiung",
+   "kawasaki",
+   "khobar",
+   "kingdom of saudi arabia",
+   "kobe",
+   "kor",
+   "korea",
+   "kowloon",
+   "ksa",
+   "kuala lumpur",
+   "kyoto",
+   "laval",
+   "london ontario",
+   "lusail",
+   "makati",
+   "malaysia",
+   "manama",
+   "manaus",
+   "manila",
+   "manitoba",
+   "markham",
+   "medellin",
+   "mexico",
+   "mexico city",
+   "mississauga",
+   "monterrey",
+   "montevideo",
+   "montreal",
+   "mys",
+   "nagoya",
+   "neom",
+   "new brunswick",
+   "new south wales",
+   "new taipei",
+   "new zealand",
+   "newcastle nsw",
+   "newfoundland",
+   "nippon",
+   "north york",
+   "nova scotia",
+   "nsw",
+   "nzl",
+   "oakville",
+   "ontario",
+   "osaka",
+   "ottawa",
+   "pangyo",
+   "penang",
+   "petaling jaya",
+   "philippines",
+   "phl",
+   "phuket",
+   "pretoria",
+   "qat",
+   "qatar",
+   "quebec",
+   "quebec city",
+   "queensland",
+   "queretaro",
+   "quezon city",
+   "recife",
+   "regina",
+   "republic of korea",
+   "richmond hill",
+   "rio de janeiro",
+   "riyadh",
+   "rok",
+   "rosario",
+   "saigon",
+   "saitama",
+   "salvador brazil",
+   "sandton",
+   "sao jose dos campos",
+   "sao paulo",
+   "sapporo",
+   "saskatchewan",
+   "saskatoon",
+   "sau",
+   "saudi",
+   "saudi arabia",
+   "scarborough",
+   "science park",
+   "selangor",
+   "sendai",
+   "seongnam",
+   "seoul",
+   "south africa",
+   "south australia",
+   "south korea",
+   "stellenbosch",
+   "surabaya",
+   "sydney",
+   "taguig",
+   "taichung",
+   "taipei",
+   "taiwan",
+   "tasmania",
+   "tha",
+   "thailand",
+   "thuwal",
+   "tijuana",
+   "tokyo",
+   "toronto",
+   "twn",
+   "uruguay",
+   "ury",
+   "valparaiso",
+   "vancouver",
+   "viet nam",
+   "vietnam",
+   "vnm",
+   "waterloo",
+   "wellington",
+   "western australia",
+   "winnipeg",
+   "wollongong",
+   "yokohama",
+   "zaf"
+  ],
+  "us_optional": [
+   "atlanta",
+   "austin",
+   "bellevue",
+   "boston",
+   "boulder",
+   "brooklyn",
+   "cambridge ma",
+   "chicago",
+   "cupertino",
+   "dallas",
+   "denver",
+   "durham",
+   "houston",
+   "los angeles",
+   "menlo park",
+   "miami",
+   "mountain view",
+   "new york",
+   "new york city",
+   "nyc",
+   "oakland",
+   "palo alto",
+   "philadelphia",
+   "phoenix",
+   "pittsburgh",
+   "raleigh",
+   "redmond",
+   "redwood city",
+   "remote - us",
+   "remote us",
+   "salt lake city",
+   "san diego",
+   "san francisco",
+   "san jose",
+   "san mateo",
+   "santa clara",
+   "seattle",
+   "south san francisco",
+   "sunnyvale",
+   "u.s.",
+   "u.s.a.",
+   "united states",
+   "united states of america",
+   "usa",
+   "washington dc",
+   "washington, dc"
+  ]
+ },
+ "countries": {
+  "India": {
+   "aliases": [
+    "india",
+    "bharat",
+    "pan india"
+   ],
+   "iso2": "IN",
+   "iso3": "IND",
+   "cities": [
+    "bengaluru",
+    "bangalore",
+    "bengalore",
+    "blr",
+    "gurugram",
+    "gurgaon",
+    "noida",
+    "greater noida",
+    "new delhi",
+    "delhi",
+    "delhi ncr",
+    "ncr",
+    "national capital region",
+    "faridabad",
+    "ghaziabad",
+    "hyderabad",
+    "secunderabad",
+    "hitec city",
+    "pune",
+    "mumbai",
+    "navi mumbai",
+    "thane",
+    "chennai",
+    "kolkata",
+    "calcutta",
+    "ahmedabad",
+    "gandhinagar",
+    "vadodara",
+    "surat",
+    "kochi",
+    "cochin",
+    "ernakulam",
+    "thiruvananthapuram",
+    "trivandrum",
+    "technopark",
+    "coimbatore",
+    "madurai",
+    "mysuru",
+    "mysore",
+    "mangaluru",
+    "mangalore",
+    "hubli",
+    "belagavi",
+    "jaipur",
+    "indore",
+    "bhopal",
+    "nagpur",
+    "nashik",
+    "lucknow",
+    "kanpur",
+    "chandigarh",
+    "mohali",
+    "panchkula",
+    "dehradun",
+    "bhubaneswar",
+    "visakhapatnam",
+    "vizag",
+    "vijayawada",
+    "patna",
+    "ranchi",
+    "jamshedpur",
+    "raipur",
+    "guwahati",
+    "goa",
+    "panaji",
+    "karnataka",
+    "maharashtra",
+    "telangana",
+    "tamil nadu",
+    "haryana",
+    "uttar pradesh",
+    "kerala",
+    "gujarat",
+    "west bengal",
+    "rajasthan",
+    "andhra pradesh",
+    "odisha",
+    "madhya pradesh",
+    "punjab india",
+    "bhubaneshwar",
+    "trichy",
+    "tiruchirappalli",
+    "vellore",
+    "kakinada",
+    "warangal",
+    "thrissur",
+    "kozhikode",
+    "calicut",
+    "udaipur",
+    "jodhpur",
+    "amritsar",
+    "ludhiana",
+    "jalandhar",
+    "agra",
+    "varanasi",
+    "meerut",
+    "gautam buddh nagar",
+    "sonipat",
+    "rohtak",
+    "manesar",
+    "ncr region",
+    "electronic city",
+    "whitefield",
+    "bellandur",
+    "koramangala",
+    "hinjewadi",
+    "kharadi",
+    "baner",
+    "powai",
+    "andheri",
+    "bkc",
+    "bandra",
+    "lower parel"
+   ],
+   "visa_route": "Home country: no visa needed.",
+   "tier": "core",
+   "track": "india",
+   "notes": "Include states (karnataka etc.) because some feeds omit the city. 'Pan India', 'Anywhere in India', 'India (Remote)' and 'Remote - India' all contain the token india. ', IN' needs a special rule (Indiana)."
+  },
+  "Singapore": {
+   "aliases": [
+    "singapore",
+    "sg"
+   ],
+   "iso2": "SG",
+   "iso3": "SGP",
+   "cities": [
+    "singapore"
+   ],
+   "visa_route": "Employment Pass (EP) with COMPASS points framework; Tech.Pass for senior talent; ONE Pass for top earners.",
+   "tier": "core",
+   "track": "singapore",
+   "notes": "City-state: the country word is the city."
+  },
+  "United Arab Emirates": {
+   "aliases": [
+    "united arab emirates",
+    "uae",
+    "emirates",
+    "u.a.e"
+   ],
+   "iso2": "AE",
+   "iso3": "ARE",
+   "cities": [
+    "dubai",
+    "abu dhabi",
+    "sharjah",
+    "ajman",
+    "ras al khaimah",
+    "difc",
+    "masdar"
+   ],
+   "visa_route": "Employer-sponsored work visa/residence; 10-year Golden Visa for skilled professionals (incl. AI/tech specialists), Green Visa for skilled workers; 'Blue Visa' etc.",
+   "tier": "core",
+   "track": "uae",
+   "notes": "Tax-free salaries; very high posting volume. Watch for scam-prone recruiter spam but ATS-direct postings are fine."
+  },
+  "Netherlands": {
+   "aliases": [
+    "netherlands",
+    "the netherlands",
+    "holland",
+    "nederland",
+    "nl"
+   ],
+   "iso2": "NL",
+   "iso3": "NLD",
+   "cities": [
+    "amsterdam",
+    "rotterdam",
+    "the hague",
+    "den haag",
+    "utrecht",
+    "eindhoven",
+    "delft",
+    "leiden",
+    "groningen",
+    "breda",
+    "tilburg",
+    "amersfoort",
+    "noord-holland",
+    "north holland",
+    "zuid-holland",
+    "maastricht",
+    "nijmegen",
+    "enschede",
+    "arnhem",
+    "haarlem",
+    "almere",
+    "zwolle",
+    "amstelveen",
+    "hilversum",
+    "veldhoven",
+    "nederland"
+   ],
+   "visa_route": "Highly Skilled Migrant (kennismigrant) permit via an IND-recognised sponsor; 30% ruling tax benefit (now phased down); EU Blue Card also possible.",
+   "tier": "core",
+   "track": "europe",
+   "notes": "Recognised-sponsor requirement is easy to check on the IND public register."
+  },
+  "Germany": {
+   "aliases": [
+    "germany",
+    "deutschland",
+    "federal republic of germany"
+   ],
+   "iso2": "DE",
+   "iso3": "DEU",
+   "cities": [
+    "berlin",
+    "munich",
+    "münchen",
+    "munchen",
+    "hamburg",
+    "frankfurt",
+    "frankfurt am main",
+    "cologne",
+    "köln",
+    "koln",
+    "stuttgart",
+    "düsseldorf",
+    "dusseldorf",
+    "leipzig",
+    "dresden",
+    "nuremberg",
+    "nürnberg",
+    "nurnberg",
+    "hannover",
+    "hanover",
+    "karlsruhe",
+    "bonn",
+    "mannheim",
+    "heidelberg",
+    "darmstadt",
+    "aachen",
+    "potsdam",
+    "freiburg",
+    "münster",
+    "essen",
+    "dortmund",
+    "bremen",
+    "bavaria",
+    "bayern",
+    "baden-württemberg",
+    "nrw",
+    "north rhine-westphalia",
+    "augsburg",
+    "wiesbaden",
+    "mainz",
+    "kiel",
+    "rostock",
+    "jena",
+    "ulm",
+    "regensburg",
+    "bochum",
+    "saarbrücken",
+    "saarbrucken",
+    "wolfsburg",
+    "ingolstadt",
+    "erlangen",
+    "oldenburg",
+    "bielefeld",
+    "ludwigsburg",
+    "walldorf",
+    "garching"
+   ],
+   "visa_route": "EU Blue Card (2026 salary floors ~EUR 50,700 standard / ~EUR 45,934 for shortage occupations incl. IT); Skilled Worker residence permit; Opportunity Card (Chancenkarte) for job search.",
+   "tier": "core",
+   "track": "europe",
+   "notes": "ISO-2 'DE' collides with Delaware: never match ', DE' on its own."
+  },
+  "France": {
+   "aliases": [
+    "france",
+    "french republic"
+   ],
+   "iso2": "FR",
+   "iso3": "FRA",
+   "cities": [
+    "paris",
+    "lyon",
+    "toulouse",
+    "marseille",
+    "nice",
+    "lille",
+    "nantes",
+    "bordeaux",
+    "grenoble",
+    "sophia antipolis",
+    "montpellier",
+    "rennes",
+    "strasbourg",
+    "île-de-france",
+    "ile-de-france",
+    "la défense",
+    "la defense",
+    "saclay",
+    "boulogne-billancourt",
+    "issy-les-moulineaux",
+    "levallois-perret",
+    "nanterre",
+    "annecy",
+    "niort",
+    "metz",
+    "nancy",
+    "dijon",
+    "tours",
+    "angers",
+    "clermont-ferrand",
+    "rouen",
+    "caen",
+    "limoges",
+    "poitiers",
+    "nîmes",
+    "avignon",
+    "aix-en-provence",
+    "cannes",
+    "antibes",
+    "valbonne",
+    "brest",
+    "saint-denis",
+    "villeneuve-d'ascq",
+    "roubaix",
+    "lausanne fr"
+   ],
+   "visa_route": "Talent Passport (Passeport Talent) - EU Blue Card or 'Salarié qualifié'/'Salarié en mission' categories; French Tech Visa for employees of recognised startups.",
+   "tier": "core",
+   "track": "europe",
+   "notes": "Paris is the dominant AI hub (many labs). 'Paris' collides with Paris, TX."
+  },
+  "Spain": {
+   "aliases": [
+    "spain",
+    "españa",
+    "espana"
+   ],
+   "iso2": "ES",
+   "iso3": "ESP",
+   "cities": [
+    "madrid",
+    "barcelona",
+    "valencia",
+    "seville",
+    "sevilla",
+    "malaga",
+    "málaga",
+    "bilbao",
+    "zaragoza",
+    "girona",
+    "alicante",
+    "palma",
+    "las palmas",
+    "tenerife",
+    "pamplona",
+    "catalonia",
+    "catalunya",
+    "valladolid",
+    "vigo",
+    "granada",
+    "murcia",
+    "san sebastián",
+    "san sebastian",
+    "a coruña",
+    "a coruna",
+    "vitoria",
+    "castellón",
+    "santander"
+   ],
+   "visa_route": "Highly Qualified Professional residence (Ley 14/2013, 'Unidad de Grandes Empresas'/UGE), EU Blue Card; Digital Nomad visa for remote workers.",
+   "tier": "core",
+   "track": "europe",
+   "notes": "'Valencia' collides with Valencia, CA; 'ES' ISO-2 is fine only as trailing country code."
+  },
+  "Portugal": {
+   "aliases": [
+    "portugal"
+   ],
+   "iso2": "PT",
+   "iso3": "PRT",
+   "cities": [
+    "lisbon",
+    "lisboa",
+    "porto",
+    "braga",
+    "coimbra",
+    "faro",
+    "madeira",
+    "funchal",
+    "oeiras",
+    "cascais"
+   ],
+   "visa_route": "Work visa for highly qualified activity / EU Blue Card; Tech Visa for certified tech employers; D8 Digital Nomad visa.",
+   "tier": "core",
+   "track": "europe",
+   "notes": "Strong volume of English-language tech jobs in Lisbon/Porto."
+  },
+  "Italy": {
+   "aliases": [
+    "italy",
+    "italia"
+   ],
+   "iso2": "IT",
+   "iso3": "ITA",
+   "cities": [
+    "milan",
+    "milano",
+    "rome",
+    "roma",
+    "turin",
+    "torino",
+    "bologna",
+    "florence",
+    "firenze",
+    "naples",
+    "napoli",
+    "padua",
+    "padova",
+    "genoa",
+    "genova",
+    "trieste",
+    "lombardy",
+    "lombardia",
+    "lazio",
+    "veneto",
+    "piedmont",
+    "emilia-romagna",
+    "tuscany",
+    "verona",
+    "pisa",
+    "trento",
+    "bari",
+    "catania",
+    "palermo",
+    "parma",
+    "modena",
+    "varese",
+    "brescia",
+    "bergamo",
+    "cagliari"
+   ],
+   "visa_route": "Work permit under annual 'decreto flussi' quota; EU Blue Card for highly skilled; Digital Nomad visa.",
+   "tier": "core",
+   "track": "europe",
+   "notes": "ISO-2 'IT' is a common English word: only match ', IT' as trailing code, never bare. 'Milan', 'Rome', 'Naples' collide with US towns."
+  },
+  "Belgium": {
+   "aliases": [
+    "belgium",
+    "belgique",
+    "belgie"
+   ],
+   "iso2": "BE",
+   "iso3": "BEL",
+   "cities": [
+    "brussels",
+    "bruxelles",
+    "antwerp",
+    "ghent",
+    "gent",
+    "leuven",
+    "liege",
+    "liège",
+    "mechelen",
+    "flanders",
+    "brussel",
+    "namur",
+    "bruges",
+    "brugge",
+    "charleroi",
+    "hasselt",
+    "diegem",
+    "zaventem"
+   ],
+   "visa_route": "Single permit (regional) for highly skilled workers / EU Blue Card (Brussels, Flanders, Wallonia).",
+   "tier": "core",
+   "track": "europe",
+   "notes": ""
+  },
+  "Austria": {
+   "aliases": [
+    "austria",
+    "österreich",
+    "osterreich"
+   ],
+   "iso2": "AT",
+   "iso3": "AUT",
+   "cities": [
+    "vienna",
+    "wien",
+    "graz",
+    "linz",
+    "salzburg",
+    "innsbruck",
+    "klagenfurt",
+    "hagenberg",
+    "dornbirn"
+   ],
+   "visa_route": "Red-White-Red Card (very skilled / shortage occupation) and EU Blue Card.",
+   "tier": "core",
+   "track": "europe",
+   "notes": "'Vienna' collides with Vienna, VA. ISO-3 'AUT' is fine only trailing."
+  },
+  "Luxembourg": {
+   "aliases": [
+    "luxembourg"
+   ],
+   "iso2": "LU",
+   "iso3": "LUX",
+   "cities": [
+    "luxembourg city",
+    "esch-sur-alzette"
+   ],
+   "visa_route": "EU Blue Card / highly qualified worker authorisation.",
+   "tier": "core",
+   "track": "europe",
+   "notes": "Country and capital share the name."
+  },
+  "Ireland": {
+   "aliases": [
+    "ireland",
+    "republic of ireland",
+    "eire"
+   ],
+   "iso2": "IE",
+   "iso3": "IRL",
+   "cities": [
+    "dublin",
+    "cork",
+    "galway",
+    "limerick",
+    "waterford",
+    "leinster",
+    "munster"
+   ],
+   "visa_route": "Critical Skills Employment Permit (ICT/AI roles on the Critical Skills list; 2-year path to Stamp 4).",
+   "tier": "ok",
+   "track": "europe",
+   "notes": "Brief lists Ireland as 'ok'; still mapped to europe track. 'Dublin' collides with Dublin, OH/CA. Do NOT match 'northern ireland' as Republic (it is UK) - it matches UK first anyway."
+  },
+  "United Kingdom": {
+   "aliases": [
+    "united kingdom",
+    "uk",
+    "u.k.",
+    "great britain",
+    "britain",
+    "gb",
+    "england",
+    "scotland",
+    "wales",
+    "northern ireland"
+   ],
+   "iso2": "GB",
+   "iso3": "GBR",
+   "cities": [
+    "london",
+    "manchester",
+    "birmingham",
+    "edinburgh",
+    "glasgow",
+    "cambridge",
+    "oxford",
+    "bristol",
+    "leeds",
+    "sheffield",
+    "liverpool",
+    "newcastle",
+    "nottingham",
+    "belfast",
+    "cardiff",
+    "reading",
+    "milton keynes",
+    "southampton",
+    "brighton",
+    "leicester",
+    "aberdeen",
+    "slough",
+    "guildford",
+    "canary wharf",
+    "shoreditch",
+    "norwich",
+    "exeter",
+    "coventry",
+    "swansea",
+    "inverness",
+    "cheltenham",
+    "bracknell",
+    "uxbridge",
+    "watford",
+    "croydon",
+    "luton",
+    "stevenage",
+    "harwell",
+    "didcot",
+    "london uk"
+   ],
+   "visa_route": "Skilled Worker visa (employer licensed sponsor, ~GBP 41,700 general threshold since Apr 2025 plus occupation rules); Global Talent visa for AI leaders; Graduate route not applicable.",
+   "tier": "ok",
+   "track": "europe",
+   "notes": "Skilled Worker rules tightened 2025; 'London' collides with London, ON; 'Cambridge' with Cambridge, MA. ISO-2 for UK is GB but postings use UK."
+  },
+  "Switzerland": {
+   "aliases": [
+    "switzerland",
+    "schweiz",
+    "suisse",
+    "svizzera"
+   ],
+   "iso2": "CH",
+   "iso3": "CHE",
+   "cities": [
+    "zurich",
+    "zürich",
+    "geneva",
+    "genève",
+    "geneve",
+    "basel",
+    "bern",
+    "lausanne",
+    "zug",
+    "lugano",
+    "winterthur",
+    "lucerne",
+    "luzern",
+    "st. gallen",
+    "st gallen",
+    "neuchâtel",
+    "neuchatel",
+    "fribourg",
+    "sion",
+    "baar",
+    "schlieren",
+    "wallisellen",
+    "dübendorf"
+   ],
+   "visa_route": "Non-EU work permit (B/L) with annual quota; highly qualified specialists only, employer must prove no EU candidate.",
+   "tier": "ok",
+   "track": "europe",
+   "notes": "Quota for third-country nationals is tight, but salaries are the highest in Europe."
+  },
+  "Sweden": {
+   "aliases": [
+    "sweden",
+    "sverige"
+   ],
+   "iso2": "SE",
+   "iso3": "SWE",
+   "cities": [
+    "stockholm",
+    "gothenburg",
+    "göteborg",
+    "goteborg",
+    "malmö",
+    "malmo",
+    "uppsala",
+    "lund",
+    "linköping",
+    "västerås",
+    "örebro",
+    "jönköping",
+    "norrköping",
+    "karlskrona",
+    "kista",
+    "sundbyberg",
+    "solna"
+   ],
+   "visa_route": "Work permit with employer offer meeting salary threshold (80% of median); EU Blue Card.",
+   "tier": "ok",
+   "track": "europe",
+   "notes": "Nordic - listed 'ok' per brief; europe track."
+  },
+  "Denmark": {
+   "aliases": [
+    "denmark",
+    "danmark"
+   ],
+   "iso2": "DK",
+   "iso3": "DNK",
+   "cities": [
+    "copenhagen",
+    "københavn",
+    "aarhus",
+    "odense",
+    "aalborg",
+    "lyngby",
+    "kongens lyngby",
+    "ballerup",
+    "roskilde",
+    "esbjerg",
+    "frederiksberg"
+   ],
+   "visa_route": "Pay Limit Scheme / Positive List for highly skilled; Fast-Track scheme via certified companies; EU Blue Card.",
+   "tier": "ok",
+   "track": "europe",
+   "notes": ""
+  },
+  "Finland": {
+   "aliases": [
+    "finland",
+    "suomi"
+   ],
+   "iso2": "FI",
+   "iso3": "FIN",
+   "cities": [
+    "helsinki",
+    "espoo",
+    "tampere",
+    "turku",
+    "oulu",
+    "vantaa",
+    "jyväskylä",
+    "kuopio",
+    "lahti"
+   ],
+   "visa_route": "Residence permit for an employed person (specialist); EU Blue Card.",
+   "tier": "ok",
+   "track": "europe",
+   "notes": "ISO-3 'FIN' collides with 'fin' (fintech snippets): trailing-only."
+  },
+  "Norway": {
+   "aliases": [
+    "norway",
+    "norge"
+   ],
+   "iso2": "NO",
+   "iso3": "NOR",
+   "cities": [
+    "oslo",
+    "bergen",
+    "trondheim",
+    "stavanger",
+    "tromsø",
+    "kristiansand",
+    "fornebu"
+   ],
+   "visa_route": "Skilled worker residence permit (UDI) with salary requirement.",
+   "tier": "ok",
+   "track": "europe",
+   "notes": "ISO-2 'NO' collides with word 'no': never match."
+  },
+  "Iceland": {
+   "aliases": [
+    "iceland"
+   ],
+   "iso2": "IS",
+   "iso3": "ISL",
+   "cities": [
+    "reykjavik",
+    "reykjavík",
+    "reykjanesbaer",
+    "keflavik"
+   ],
+   "visa_route": "Residence permit for specialists; EEA labour market test.",
+   "tier": "ok",
+   "track": "europe",
+   "notes": ""
+  },
+  "Poland": {
+   "aliases": [
+    "poland",
+    "polska"
+   ],
+   "iso2": "PL",
+   "iso3": "POL",
+   "cities": [
+    "warsaw",
+    "krakow",
+    "kraków",
+    "wroclaw",
+    "wrocław",
+    "gdansk",
+    "gdańsk",
+    "poznan",
+    "poznań",
+    "lodz",
+    "łódź",
+    "katowice",
+    "gdynia",
+    "szczecin",
+    "lublin",
+    "bydgoszcz",
+    "rzeszow",
+    "rzeszów",
+    "torun",
+    "toruń",
+    "bialystok"
+   ],
+   "visa_route": "Work permit type A / EU Blue Card; Poland Business Harbour (tech visa).",
+   "tier": "core",
+   "track": "europe",
+   "notes": "ISO-3 'POL' trailing only."
+  },
+  "Czech Republic": {
+   "aliases": [
+    "czech republic",
+    "czechia",
+    "czech"
+   ],
+   "iso2": "CZ",
+   "iso3": "CZE",
+   "cities": [
+    "prague",
+    "praha",
+    "brno",
+    "ostrava"
+   ],
+   "visa_route": "Employee Card; EU Blue Card; Czech tech talent scheme (Welcome Package).",
+   "tier": "core",
+   "track": "europe",
+   "notes": ""
+  },
+  "Slovakia": {
+   "aliases": [
+    "slovakia",
+    "slovak republic"
+   ],
+   "iso2": "SK",
+   "iso3": "SVK",
+   "cities": [
+    "bratislava",
+    "kosice",
+    "košice"
+   ],
+   "visa_route": "Blue Card / temporary residence for employment.",
+   "tier": "core",
+   "track": "europe",
+   "notes": ""
+  },
+  "Hungary": {
+   "aliases": [
+    "hungary",
+    "magyarország"
+   ],
+   "iso2": "HU",
+   "iso3": "HUN",
+   "cities": [
+    "budapest",
+    "debrecen",
+    "szeged"
+   ],
+   "visa_route": "Guest Worker / EU Blue Card.",
+   "tier": "core",
+   "track": "europe",
+   "notes": "Guest-worker regime restricted; Blue Card is the practical route."
+  },
+  "Romania": {
+   "aliases": [
+    "romania",
+    "românia"
+   ],
+   "iso2": "RO",
+   "iso3": "ROU",
+   "cities": [
+    "bucharest",
+    "bucuresti",
+    "cluj",
+    "cluj-napoca",
+    "timisoara",
+    "timișoara",
+    "iasi",
+    "iași",
+    "brasov",
+    "brașov"
+   ],
+   "visa_route": "Work permit (quota) / EU Blue Card.",
+   "tier": "core",
+   "track": "europe",
+   "notes": "Large outsourcing+product hub."
+  },
+  "Bulgaria": {
+   "aliases": [
+    "bulgaria"
+   ],
+   "iso2": "BG",
+   "iso3": "BGR",
+   "cities": [
+    "sofia",
+    "plovdiv",
+    "varna",
+    "burgas"
+   ],
+   "visa_route": "Work permit / EU Blue Card.",
+   "tier": "core",
+   "track": "europe",
+   "notes": ""
+  },
+  "Greece": {
+   "aliases": [
+    "greece",
+    "hellas"
+   ],
+   "iso2": "GR",
+   "iso3": "GRC",
+   "cities": [
+    "athens",
+    "thessaloniki",
+    "patras"
+   ],
+   "visa_route": "Work permit / EU Blue Card; Digital Nomad visa.",
+   "tier": "core",
+   "track": "europe",
+   "notes": "'Athens' collides with Athens, GA."
+  },
+  "Croatia": {
+   "aliases": [
+    "croatia",
+    "hrvatska"
+   ],
+   "iso2": "HR",
+   "iso3": "HRV",
+   "cities": [
+    "zagreb",
+    "split",
+    "rijeka",
+    "osijek"
+   ],
+   "visa_route": "Residence & work permit / EU Blue Card; Digital Nomad permit.",
+   "tier": "core",
+   "track": "europe",
+   "notes": ""
+  },
+  "Slovenia": {
+   "aliases": [
+    "slovenia"
+   ],
+   "iso2": "SI",
+   "iso3": "SVN",
+   "cities": [
+    "ljubljana",
+    "maribor"
+   ],
+   "visa_route": "Single permit / EU Blue Card.",
+   "tier": "core",
+   "track": "europe",
+   "notes": ""
+  },
+  "Estonia": {
+   "aliases": [
+    "estonia",
+    "eesti"
+   ],
+   "iso2": "EE",
+   "iso3": "EST",
+   "cities": [
+    "tallinn",
+    "tartu"
+   ],
+   "visa_route": "Employment registration + D-visa; e-Residency not a work route; Startup visa.",
+   "tier": "core",
+   "track": "europe",
+   "notes": ""
+  },
+  "Latvia": {
+   "aliases": [
+    "latvia"
+   ],
+   "iso2": "LV",
+   "iso3": "LVA",
+   "cities": [
+    "riga"
+   ],
+   "visa_route": "Work permit / EU Blue Card.",
+   "tier": "core",
+   "track": "europe",
+   "notes": ""
+  },
+  "Lithuania": {
+   "aliases": [
+    "lithuania"
+   ],
+   "iso2": "LT",
+   "iso3": "LTU",
+   "cities": [
+    "vilnius",
+    "kaunas",
+    "klaipeda"
+   ],
+   "visa_route": "Temporary residence for work / EU Blue Card; Startup visa.",
+   "tier": "core",
+   "track": "europe",
+   "notes": ""
+  },
+  "Malta": {
+   "aliases": [
+    "malta"
+   ],
+   "iso2": "MT",
+   "iso3": "MLT",
+   "cities": [
+    "valletta",
+    "sliema",
+    "st julian's"
+   ],
+   "visa_route": "Single permit / Key Employee Initiative / EU Blue Card.",
+   "tier": "core",
+   "track": "europe",
+   "notes": ""
+  },
+  "Cyprus": {
+   "aliases": [
+    "cyprus"
+   ],
+   "iso2": "CY",
+   "iso3": "CYP",
+   "cities": [
+    "nicosia",
+    "limassol",
+    "larnaca"
+   ],
+   "visa_route": "Employment permit (Aliens and Immigration) / Blue Card.",
+   "tier": "core",
+   "track": "europe",
+   "notes": "Only Republic of Cyprus; occupied north is not valid."
+  },
+  "Serbia": {
+   "aliases": [
+    "serbia"
+   ],
+   "iso2": "RS",
+   "iso3": "SRB",
+   "cities": [
+    "belgrade",
+    "novi sad",
+    "nis",
+    "niš"
+   ],
+   "visa_route": "Work permit + temporary residence; relatively easy for IT.",
+   "tier": "ok",
+   "track": "europe",
+   "notes": "Non-EU Balkan hub; low priority."
+  },
+  "Canada": {
+   "aliases": [
+    "canada",
+    "canadian"
+   ],
+   "iso2": "CA",
+   "iso3": "CAN",
+   "cities": [
+    "toronto",
+    "vancouver",
+    "montreal",
+    "montréal",
+    "ottawa",
+    "waterloo",
+    "kitchener",
+    "calgary",
+    "edmonton",
+    "mississauga",
+    "quebec city",
+    "québec",
+    "ontario",
+    "british columbia",
+    "alberta",
+    "burnaby",
+    "markham",
+    "halifax",
+    "victoria bc",
+    "saskatoon",
+    "regina",
+    "winnipeg",
+    "london ontario",
+    "guelph",
+    "hamilton ontario",
+    "oakville",
+    "burlington ontario",
+    "gatineau",
+    "laval",
+    "brampton",
+    "richmond hill",
+    "north york",
+    "scarborough",
+    "nova scotia",
+    "manitoba",
+    "saskatchewan",
+    "new brunswick",
+    "newfoundland"
+   ],
+   "visa_route": "Express Entry (CRS points; Federal Skilled Worker/CEC) and Global Talent Stream (2-week work permit for tech employers).",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "ISO-2 'CA' collides with California: never match bare ', CA'. 'ON' is Ontario but also a word."
+  },
+  "Australia": {
+   "aliases": [
+    "australia",
+    "au"
+   ],
+   "iso2": "AU",
+   "iso3": "AUS",
+   "cities": [
+    "sydney",
+    "melbourne",
+    "brisbane",
+    "perth",
+    "canberra",
+    "adelaide",
+    "new south wales",
+    "nsw",
+    "victoria australia",
+    "queensland",
+    "gold coast",
+    "newcastle nsw",
+    "wollongong",
+    "hobart",
+    "darwin",
+    "western australia",
+    "south australia",
+    "tasmania"
+   ],
+   "visa_route": "Skills in Demand visa (subclass 482; Specialist Skills pathway for high earners); Global Talent visa (subclass 858).",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "'Melbourne' collides with Melbourne, FL; 'Perth' with other minor."
+  },
+  "New Zealand": {
+   "aliases": [
+    "new zealand",
+    "aotearoa",
+    "nz"
+   ],
+   "iso2": "NZ",
+   "iso3": "NZL",
+   "cities": [
+    "auckland",
+    "wellington",
+    "christchurch",
+    "hamilton nz"
+   ],
+   "visa_route": "Accredited Employer Work Visa (AEWV) with median-wage rule.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": ""
+  },
+  "Japan": {
+   "aliases": [
+    "japan",
+    "nippon"
+   ],
+   "iso2": "JP",
+   "iso3": "JPN",
+   "cities": [
+    "tokyo",
+    "osaka",
+    "yokohama",
+    "kyoto",
+    "nagoya",
+    "fukuoka",
+    "sapporo",
+    "kobe",
+    "kawasaki",
+    "saitama",
+    "chiba",
+    "hiroshima",
+    "sendai"
+   ],
+   "visa_route": "Highly Skilled Professional (points-based, fast PR); Engineer/Specialist in Humanities visa; J-Skip/J-Find.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": ""
+  },
+  "South Korea": {
+   "aliases": [
+    "south korea",
+    "korea",
+    "republic of korea",
+    "rok"
+   ],
+   "iso2": "KR",
+   "iso3": "KOR",
+   "cities": [
+    "seoul",
+    "busan",
+    "pangyo",
+    "incheon",
+    "daejeon",
+    "seongnam"
+   ],
+   "visa_route": "E-7 Specialty Occupation visa; Top-Tier visa for elite talent; F-2-7 points visa.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "Plain 'korea' maps here only; 'north korea' is excluded first."
+  },
+  "Hong Kong": {
+   "aliases": [
+    "hong kong",
+    "hk",
+    "hksar"
+   ],
+   "iso2": "HK",
+   "iso3": "HKG",
+   "cities": [
+    "hong kong",
+    "kowloon",
+    "central hong kong",
+    "cyberport",
+    "science park"
+   ],
+   "visa_route": "General Employment Policy (GEP); Top Talent Pass Scheme (TTPS).",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "Borderline (political/regulatory risk) - kept as ok because visa route is straightforward and market is a regional finance/AI hub."
+  },
+  "Taiwan": {
+   "aliases": [
+    "taiwan",
+    "roc"
+   ],
+   "iso2": "TW",
+   "iso3": "TWN",
+   "cities": [
+    "taipei",
+    "hsinchu",
+    "taichung",
+    "kaohsiung",
+    "new taipei"
+   ],
+   "visa_route": "Employment Gold Card (4-in-1 work/residence permit) for professionals.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": ""
+  },
+  "Qatar": {
+   "aliases": [
+    "qatar"
+   ],
+   "iso2": "QA",
+   "iso3": "QAT",
+   "cities": [
+    "doha",
+    "lusail"
+   ],
+   "visa_route": "Employer-sponsored work permit + residence permit (RP); tech roles concentrated in Doha.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "Low volume."
+  },
+  "Saudi Arabia": {
+   "aliases": [
+    "saudi arabia",
+    "ksa",
+    "kingdom of saudi arabia",
+    "saudi"
+   ],
+   "iso2": "SA",
+   "iso3": "SAU",
+   "cities": [
+    "riyadh",
+    "jeddah",
+    "neom",
+    "dammam",
+    "khobar",
+    "al khobar",
+    "thuwal"
+   ],
+   "visa_route": "Iqama via employer (Qiwa) / Premium Residency; heavy push for AI (HUMAIN, SDAIA).",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "Borderline - see borderline_decisions; kept as ok. Alias 'sa' NOT used (collides with South Africa/Australia)."
+  },
+  "Bahrain": {
+   "aliases": [
+    "bahrain"
+   ],
+   "iso2": "BH",
+   "iso3": "BHR",
+   "cities": [
+    "manama"
+   ],
+   "visa_route": "Employer-sponsored work visa (LMRA); Golden Residency.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "Low volume."
+  },
+  "Malaysia": {
+   "aliases": [
+    "malaysia"
+   ],
+   "iso2": "MY",
+   "iso3": "MYS",
+   "cities": [
+    "kuala lumpur",
+    "kl",
+    "petaling jaya",
+    "cyberjaya",
+    "penang",
+    "johor bahru",
+    "selangor"
+   ],
+   "visa_route": "Employment Pass (EP, category I/II) / DE Rantau nomad pass.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "Low priority."
+  },
+  "Thailand": {
+   "aliases": [
+    "thailand"
+   ],
+   "iso2": "TH",
+   "iso3": "THA",
+   "cities": [
+    "bangkok",
+    "chiang mai",
+    "phuket"
+   ],
+   "visa_route": "Non-B visa + work permit; LTR (Long-Term Resident) visa for skilled professionals; Smart visa.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "Low priority."
+  },
+  "Vietnam": {
+   "aliases": [
+    "vietnam",
+    "viet nam"
+   ],
+   "iso2": "VN",
+   "iso3": "VNM",
+   "cities": [
+    "ho chi minh",
+    "ho chi minh city",
+    "saigon",
+    "hanoi",
+    "da nang"
+   ],
+   "visa_route": "Work permit via employer (requires degree + 3 yrs exp).",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "Low priority."
+  },
+  "Indonesia": {
+   "aliases": [
+    "indonesia"
+   ],
+   "iso2": "ID",
+   "iso3": "IDN",
+   "cities": [
+    "jakarta",
+    "bali",
+    "surabaya",
+    "bandung",
+    "denpasar"
+   ],
+   "visa_route": "KITAS work stay permit (employer-sponsored); Golden Visa for investors/talent.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "ISO-2 'ID' collides with Idaho and the word 'id'."
+  },
+  "Philippines": {
+   "aliases": [
+    "philippines"
+   ],
+   "iso2": "PH",
+   "iso3": "PHL",
+   "cities": [
+    "manila",
+    "makati",
+    "taguig",
+    "cebu",
+    "quezon city",
+    "bgc",
+    "bonifacio global city"
+   ],
+   "visa_route": "9(g) Pre-arranged Employee visa + AEP.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "BPO-heavy; AI roles scarce."
+  },
+  "South Africa": {
+   "aliases": [
+    "south africa"
+   ],
+   "iso2": "ZA",
+   "iso3": "ZAF",
+   "cities": [
+    "cape town",
+    "johannesburg",
+    "pretoria",
+    "durban",
+    "sandton",
+    "stellenbosch"
+   ],
+   "visa_route": "Critical Skills Work Visa (list includes some IT roles) / General Work Visa.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "Borderline: high crime rate but lawful route and genuine tech hub. Low priority."
+  },
+  "Brazil": {
+   "aliases": [
+    "brazil",
+    "brasil"
+   ],
+   "iso2": "BR",
+   "iso3": "BRA",
+   "cities": [
+    "são paulo",
+    "sao paulo",
+    "rio de janeiro",
+    "belo horizonte",
+    "curitiba",
+    "porto alegre",
+    "florianópolis",
+    "florianopolis",
+    "brasília",
+    "brasilia",
+    "campinas",
+    "recife",
+    "sao jose dos campos",
+    "são josé dos campos",
+    "barueri",
+    "manaus",
+    "fortaleza",
+    "salvador brazil",
+    "goiânia"
+   ],
+   "visa_route": "VITEM V work visa (employer-sponsored); Digital Nomad visa.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "Low priority: most roles are Portuguese-language local hire. Amazon feed writes BRA."
+  },
+  "Mexico": {
+   "aliases": [
+    "mexico",
+    "méxico"
+   ],
+   "iso2": "MX",
+   "iso3": "MEX",
+   "cities": [
+    "mexico city",
+    "ciudad de méxico",
+    "cdmx",
+    "guadalajara",
+    "monterrey",
+    "querétaro",
+    "queretaro",
+    "tijuana"
+   ],
+   "visa_route": "Temporary resident with work permit via employer (INM).",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "Low priority; security varies by state."
+  },
+  "Argentina": {
+   "aliases": [
+    "argentina"
+   ],
+   "iso2": "AR",
+   "iso3": "ARG",
+   "cities": [
+    "buenos aires",
+    "córdoba argentina",
+    "rosario"
+   ],
+   "visa_route": "Work visa (residencia temporaria); Digital nomad.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "ISO-2 'AR' collides with Arkansas."
+  },
+  "Chile": {
+   "aliases": [
+    "chile"
+   ],
+   "iso2": "CL",
+   "iso3": "CHL",
+   "cities": [
+    "santiago",
+    "valparaíso"
+   ],
+   "visa_route": "Work visa (contrato); Start-Up Chile.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "Low priority."
+  },
+  "Colombia": {
+   "aliases": [
+    "colombia"
+   ],
+   "iso2": "CO",
+   "iso3": "COL",
+   "cities": [
+    "bogotá",
+    "bogota",
+    "medellín",
+    "medellin"
+   ],
+   "visa_route": "M-type worker visa; digital nomad (V).",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "ISO-2 'CO' collides with Colorado; ISO-3 'COL' trailing only."
+  },
+  "United States": {
+   "aliases": [
+    "united states",
+    "united states of america",
+    "usa",
+    "u.s.",
+    "u.s.a."
+   ],
+   "iso2": "US",
+   "iso3": "USA",
+   "cities": [
+    "san francisco",
+    "new york",
+    "new york city",
+    "nyc",
+    "seattle",
+    "bellevue",
+    "redmond",
+    "austin",
+    "boston",
+    "cambridge ma",
+    "los angeles",
+    "san jose",
+    "mountain view",
+    "palo alto",
+    "sunnyvale",
+    "menlo park",
+    "santa clara",
+    "cupertino",
+    "oakland",
+    "san diego",
+    "chicago",
+    "atlanta",
+    "denver",
+    "boulder",
+    "dallas",
+    "houston",
+    "washington dc",
+    "washington, dc",
+    "pittsburgh",
+    "miami",
+    "raleigh",
+    "durham",
+    "portland",
+    "salt lake city",
+    "philadelphia",
+    "phoenix",
+    "san mateo",
+    "redwood city",
+    "south san francisco",
+    "brooklyn",
+    "remote - us",
+    "remote us"
+   ],
+   "visa_route": "H-1B (annual lottery; weighted-by-wage selection from FY2027; USD 100,000 payment on certain new petitions per Sept-2025 proclamation - verify current status), O-1 (extraordinary ability), L-1 intra-company transfer after 1 yr abroad.",
+   "tier": "ok",
+   "track": "us_optional",
+   "notes": "High volume, hard visa. Flagged rather than hidden. Default recommendation: do NOT include in the main intl track; offer as a separate opt-in 'us_optional' bucket and show only if posting mentions sponsorship/relocation (visa_flag == yes) or role is an L-1/O-1 fit.",
+   "high_volume_hard_visa": true
+  },
+  "Uruguay": {
+   "aliases": [
+    "uruguay"
+   ],
+   "iso2": "UY",
+   "iso3": "URY",
+   "cities": [
+    "montevideo"
+   ],
+   "visa_route": "Residence with work contract; digital nomad.",
+   "tier": "ok",
+   "track": "other_ok",
+   "notes": "Low priority."
+  }
+ },
+ "excluded": [
+  {
+   "name": "Russia",
+   "reason": "Comprehensive sanctions/export controls, payment and employer-sponsorship channels cut off; no lawful relocation route for an Indian national via Western employers",
+   "tokens": [
+    "russia",
+    "moscow",
+    "saint petersburg",
+    "st petersburg"
+   ]
+  },
+  {
+   "name": "Belarus",
+   "reason": "Sanctions and state-security risk; no practical work route",
+   "tokens": [
+    "belarus",
+    "minsk"
+   ]
+  },
+  {
+   "name": "Ukraine",
+   "reason": "Active war zone",
+   "tokens": [
+    "ukraine",
+    "kyiv",
+    "kiev",
+    "lviv",
+    "kharkiv",
+    "odesa",
+    "odessa",
+    "dnipro"
+   ]
+  },
+  {
+   "name": "Iran",
+   "reason": "Comprehensive sanctions; travel advisories",
+   "tokens": [
+    "iran",
+    "tehran"
+   ]
+  },
+  {
+   "name": "Iraq",
+   "reason": "Conflict/security; do-not-travel advisories",
+   "tokens": [
+    "iraq",
+    "baghdad",
+    "erbil"
+   ]
+  },
+  {
+   "name": "Syria",
+   "reason": "Conflict and sanctions",
+   "tokens": [
+    "syria",
+    "damascus"
+   ]
+  },
+  {
+   "name": "Afghanistan",
+   "reason": "Conflict; no functioning legal work route",
+   "tokens": [
+    "afghanistan",
+    "kabul"
+   ]
+  },
+  {
+   "name": "Yemen",
+   "reason": "Active conflict",
+   "tokens": [
+    "yemen",
+    "sanaa"
+   ]
+  },
+  {
+   "name": "Libya",
+   "reason": "Conflict",
+   "tokens": [
+    "libya",
+    "tripoli libya",
+    "benghazi"
+   ]
+  },
+  {
+   "name": "Sudan / South Sudan",
+   "reason": "Active conflict",
+   "tokens": [
+    "sudan",
+    "khartoum",
+    "south sudan",
+    "juba"
+   ]
+  },
+  {
+   "name": "Somalia",
+   "reason": "Conflict",
+   "tokens": [
+    "somalia",
+    "mogadishu"
+   ]
+  },
+  {
+   "name": "North Korea",
+   "reason": "Sanctions",
+   "tokens": [
+    "north korea",
+    "dprk",
+    "pyongyang"
+   ]
+  },
+  {
+   "name": "Myanmar",
+   "reason": "Conflict/military rule",
+   "tokens": [
+    "myanmar",
+    "burma",
+    "yangon"
+   ]
+  },
+  {
+   "name": "Venezuela",
+   "reason": "Sanctions, instability, no practical work route",
+   "tokens": [
+    "venezuela",
+    "caracas"
+   ]
+  },
+  {
+   "name": "Cuba",
+   "reason": "Sanctions/embargo",
+   "tokens": [
+    "cuba",
+    "havana"
+   ]
+  },
+  {
+   "name": "Lebanon",
+   "reason": "Conflict/economic collapse",
+   "tokens": [
+    "lebanon",
+    "beirut"
+   ]
+  },
+  {
+   "name": "Cambodia / Laos",
+   "reason": "Scam-compound and trafficking-linked 'job offers' are widespread; fake tech postings",
+   "tokens": [
+    "cambodia",
+    "phnom penh",
+    "laos",
+    "vientiane"
+   ]
+  },
+  {
+   "name": "Nigeria",
+   "reason": "Very high prevalence of fake job offers/advance-fee scams; security advisories; no practical skilled-worker route for Indians",
+   "tokens": [
+    "nigeria",
+    "lagos",
+    "abuja"
+   ]
+  },
+  {
+   "name": "Pakistan",
+   "reason": "Indian nationals cannot realistically get work rights; bilateral restrictions; security",
+   "tokens": [
+    "pakistan",
+    "karachi",
+    "lahore",
+    "islamabad"
+   ]
+  },
+  {
+   "name": "Bangladesh",
+   "reason": "Little skilled-worker route for Indian nationals; BPO/outsourcing; not a relocation target",
+   "tokens": [
+    "bangladesh",
+    "dhaka"
+   ]
+  },
+  {
+   "name": "Egypt",
+   "reason": "Low relocation viability and scam-prone recruiter postings; work permits for foreigners are quota-restricted",
+   "tokens": [
+    "egypt",
+    "cairo"
+   ]
+  },
+  {
+   "name": "Ethiopia",
+   "reason": "Regional conflict; no practical route",
+   "tokens": [
+    "ethiopia",
+    "addis ababa"
+   ]
+  },
+  {
+   "name": "Kenya / East & West Africa (ex South Africa)",
+   "reason": "No skilled-worker route aimed at Indian tech workers, scam-prone postings; excluded by default (re-enable per country if desired)",
+   "tokens": [
+    "kenya",
+    "nairobi",
+    "ghana",
+    "accra",
+    "uganda",
+    "kampala",
+    "tanzania",
+    "rwanda",
+    "kigali",
+    "zimbabwe",
+    "senegal",
+    "dakar",
+    "cameroon",
+    "ivory coast"
+   ]
+  },
+  {
+   "name": "Israel",
+   "reason": "Active conflict periods since 2023 and security advisories; strong tech hub so excluded-by-default but easy to enable (flag borderline)",
+   "tokens": [
+    "israel",
+    "tel aviv",
+    "jerusalem",
+    "haifa",
+    "herzliya",
+    "ramat gan",
+    "petah tikva",
+    "beer sheva"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "reason": "Work permits for foreigners are points-based and hard; local-language market; regional/currency risk (borderline: re-enable if desired)",
+   "tokens": [
+    "turkey",
+    "türkiye",
+    "turkiye",
+    "istanbul",
+    "ankara",
+    "izmir"
+   ]
+  },
+  {
+   "name": "China (mainland)",
+   "reason": "Borderline: lawful Z visa exists but near-zero practical opportunity for Indian nationals, data/security restrictions, relocation rarely sponsored",
+   "tokens": [
+    "china",
+    "beijing",
+    "shanghai",
+    "shenzhen",
+    "guangzhou",
+    "hangzhou",
+    "chengdu",
+    "prc"
+   ]
+  },
+  {
+   "name": "Sanctioned / unsafe catch-all",
+   "reason": "Any posting whose only geography is a country in this list is classified 'excluded' and dropped; a string that ALSO names a target place (e.g. 'Israel | London') still matches the target.",
+   "tokens": []
+  }
+ ],
+ "borderline_decisions": [
+  {
+   "name": "Israel",
+   "decision": "excluded by default",
+   "why": "Tel Aviv is a top-5 AI hub and legal work routes exist, but active-conflict risk matches your 'skip' criteria. Move tokens to other_ok to opt in."
+  },
+  {
+   "name": "Turkey",
+   "decision": "excluded by default",
+   "why": "Legitimate market, but difficult work permit, local-language roles, and elevated scam/instability noise."
+  },
+  {
+   "name": "China (mainland)",
+   "decision": "excluded by default",
+   "why": "Lawful but impractical for Indian nationals; very little sponsored relocation."
+  },
+  {
+   "name": "Hong Kong",
+   "decision": "ok",
+   "why": "Straightforward GEP/TTPS visas and English-language market; accepted despite governance concerns."
+  },
+  {
+   "name": "Saudi Arabia",
+   "decision": "ok",
+   "why": "Premium Residency and large AI investment; lawful, well-paid; accept with eyes open on lifestyle/regional-security factors."
+  },
+  {
+   "name": "Qatar / Bahrain",
+   "decision": "ok",
+   "why": "Lawful employer-sponsored routes; low volume."
+  },
+  {
+   "name": "Russia / Belarus",
+   "decision": "excluded",
+   "why": "Sanctions."
+  },
+  {
+   "name": "Ukraine",
+   "decision": "excluded",
+   "why": "War."
+  },
+  {
+   "name": "Pakistan / Bangladesh",
+   "decision": "excluded",
+   "why": "No practical work rights for Indian nationals."
+  },
+  {
+   "name": "Egypt / Nigeria / Ethiopia / Kenya etc.",
+   "decision": "excluded",
+   "why": "Scam-prone postings and no practical skilled-worker route; re-enable per country if a real posting appears."
+  },
+  {
+   "name": "South Africa",
+   "decision": "ok (low priority)",
+   "why": "Critical Skills visa exists and Cape Town is a real tech hub; crime is a lifestyle concern, not a posting-legitimacy one."
+  },
+  {
+   "name": "Brazil / Mexico / Argentina / Chile / Colombia",
+   "decision": "ok (low priority)",
+   "why": "Legitimate but mostly local-language hiring; Amazon writes BRA."
+  },
+  {
+   "name": "Serbia",
+   "decision": "ok (low priority)",
+   "why": "Non-EU Balkan hub with easy IT work permits."
+  },
+  {
+   "name": "Cambodia / Laos",
+   "decision": "excluded",
+   "why": "Known scam-compound / trafficking 'tech job' ring."
+  },
+  {
+   "name": "United States",
+   "decision": "ok, flagged high_volume_hard_visa, separate us_optional track",
+   "why": "Huge volume but H-1B lottery plus 2025 USD 100k fee on certain new petitions means most postings are unreachable from India without L-1/O-1; keep out of main alert unless sponsorship is mentioned."
+  },
+  {
+   "name": "Georgia (country) / Armenia / Kazakhstan / Uzbekistan / Oman / Kuwait / Jordan / Sri Lanka / Nepal",
+   "decision": "not tracked",
+   "why": "Neutral/low-signal; 'Georgia' collides with the US state, so no token is emitted."
+  }
+ ],
+ "remote_rules": [
+  {
+   "pattern": "remote | remote - <target country or city>",
+   "maps_to": "that country's track (india/europe/singapore/uae/other_ok)",
+   "caveat": "Country wins over the word remote. 'Remote - India' -> india."
+  },
+  {
+   "pattern": "remote - us | remote (us) | us only | usa only | remote, <US state code>",
+   "maps_to": "us_optional (never a remote track)",
+   "caveat": "Must NOT match remote_global. Also catches 'Remote - CA/TX/NY' - 2-letter state after a dash."
+  },
+  {
+   "pattern": "worldwide | anywhere | global | distributed | work from home | 'Remote' alone | 'Remote International'",
+   "maps_to": "remote_global",
+   "caveat": "Keep only when job.kind == 'agg' as today, or require a visa_flag/relocation or eligibility text because many 'Remote' ATS postings are US/EU-timezone restricted. 'Anywhere in India' is NOT global; it contains 'india'. 'Anywhere' also appears in 'Ukraine Anywhere' - excluded check runs first."
+  },
+  {
+   "pattern": "emea | europe | european | eu | eea | dach | nordics | benelux | scandinavia | cee | eastern europe",
+   "maps_to": "europe",
+   "caveat": "EMEA also includes Middle East and Africa. Treat as europe (+ uae for Gulf). 'Home based - EMEA' is Europe+ME+Africa so lower confidence."
+  },
+  {
+   "pattern": "middle east | mena | gcc | gulf",
+   "maps_to": "uae",
+   "caveat": "Region includes excluded countries; accept at region level only."
+  },
+  {
+   "pattern": "apac | apj | asia pacific | asia | south asia | southeast asia",
+   "maps_to": "regional (maybe India/Singapore)",
+   "caveat": "APAC includes India and Singapore but also China, Australia; flag as 'regional' for review, treat like remote track (agg only)."
+  },
+  {
+   "pattern": "north america | namer | americas | amer | latam | latin america | us and canada",
+   "maps_to": "other_region (drop)",
+   "caveat": "Not a target. 'US and Canada' still hits Canada token if written 'Canada'."
+  },
+  {
+   "pattern": "hybrid | in-office | onsite | on-site | multiple locations | n locations | various | blank",
+   "maps_to": "placeholder (unknown geography)",
+   "caveat": "Not enough information; do not drop silently - re-check against description or company HQ. 4.3% of sampled rows."
+  },
+  {
+   "pattern": "timezone strings (CET, GMT, EET, BST)",
+   "maps_to": "europe",
+   "caveat": "Only if nothing else matched."
+  },
+  {
+   "pattern": "multi-location strings separated by | ; / or newline",
+   "maps_to": "best segment",
+   "caveat": "Split first, classify each segment, priority india > singapore > uae > europe > other_ok > remote_global > regional > us_optional > excluded."
+  }
+ ],
+ "special_rules": [
+  {
+   "problem": "', IN' = India vs Indiana",
+   "rule": "Case-sensitive: raw trailing r',\\s*IN\\s*$' -> India only if segment has no US signal and no Indiana city (indianapolis, fort wayne, west lafayette, bloomington). Never match bare 'in' (English word)."
+  },
+  {
+   "problem": "'US' / 'U.S.' / 'USA' vs the pronoun 'us'",
+   "rule": "Match on original-case text: r'\\bUS\\b|\\bU\\.S\\.|\\bUSA\\b' plus 'united states'. Never lowercase before this test; 'us' is not a token."
+  },
+  {
+   "problem": "'UK'",
+   "rule": "Safe lowercase: r'\\buk\\b' -> United Kingdom. 'GB' only as trailing ', GB'."
+  },
+  {
+   "problem": "', CA' California vs Canada",
+   "rule": "Treat ', CA' / '- CA' as California (US state). Canada is matched via 'canada', 'CAN' (trailing ISO-3), provinces (Ontario, British Columbia, Alberta, Quebec) and cities. ISO-2 'CA' for Canada is never used."
+  },
+  {
+   "problem": "', DE' Germany vs Delaware",
+   "rule": "DE is NOT a US-state signal. Germany is matched from 'germany', 'DEU', or German city tokens. Bare 'DE' alone is not matched (Wilmington, DE -> unclassified)."
+  },
+  {
+   "problem": "ISO-2 codes in general",
+   "rule": "Only trailing ', XX' for: gb nl fr ie ch se dk pl pt es sg ae jp kr hk tw nz au br mx. Never: in ca de it be at is no id co ar pa il (collide with words/US states). 'IT' as in 'Remote - IT' must not map to Italy."
+  },
+  {
+   "problem": "ISO-3 (Amazon/ICIMS style)",
+   "rule": "Match only as trailing segment after , - | / e.g. r'[,\\-|/]\\s*(ind|gbr|ita|nld|deu|fra|esp|irl|che|swe|dnk|fin|bel|aut|pol|prt|sgp|are|can|aus|bra|jpn|kor|...)\\s*$'. Do NOT use '(est)' (timezone), and do NOT match 'fin','bel','aut','pol','col','nor','esp' as free words (use trailing-only)."
+  },
+  {
+   "problem": "US cities that share names with target cities",
+   "rule": "Tokens paris, valencia, birmingham, cambridge, manchester, dublin, vienna, athens, naples, rome, milan, london, melbourne, perth, oxford, bristol, belfast, glasgow, newcastle, vancouver, portland, columbus, santiago, victoria are 'ambiguous': they count only when the segment has no US signal (state code, state name, 'United States')."
+  },
+  {
+   "problem": "Explicit US signal",
+   "rule": "US signal = US/USA/U.S., 'united states', [,-] two-letter US state (excl IN, DE), full state name, DC/'Washington, D.C.', 'Bay Area'. When present, drop all city-level matches (not country-name matches) in that segment."
+  },
+  {
+   "problem": "'Georgia'",
+   "rule": "No token (state vs country). Untracked unless other signals."
+  },
+  {
+   "problem": "'Holland', 'Czech', 'Korea'",
+   "rule": "'holland'->Netherlands, 'czech'/'czechia'->Czech Republic, 'korea'->South Korea unless 'north korea' (excluded check)."
+  },
+  {
+   "problem": "'Ireland' vs 'Northern Ireland'",
+   "rule": "'northern ireland' is UK; both are europe track so no practical impact."
+  },
+  {
+   "problem": "'Remote' qualifiers",
+   "rule": "'Remote (US)'/'Remote - US'/'US only' -> us_optional; 'Remote, Canada; Remote, United States' -> any matching segment wins (other_ok)."
+  },
+  {
+   "problem": "Word-boundary with accents and hyphens",
+   "rule": "NFKD-strip accents before matching (São Paulo, München, Zürich, Kraków). Boundary = (?<![a-z0-9])token(?![a-z0-9]) so 'Bengaluru-VTP' and 'Bengaluru - BLR1' match."
+  },
+  {
+   "problem": "Short/ambiguous tokens deliberately removed from tracks",
+   "rule": "kl, blr, bgc, sa, au, nl, sg, hk, nz, roc, us, gb, york, salem, kota, derby, warwick, georgia, america, nice, bath, reading, split, cork-as-word(ambiguous list)."
+  },
+  {
+   "problem": "Existing config.json issues",
+   "rule": "track_intl contains ISO-3 'fin','bel','aut','pol' and 'uk','nice'-like risk; 'ncr' ok; 'rome','milan','valencia' collide with US towns; 'remote' in track_remote matches 'Remote - US'. Replace by tracks + segment logic."
+  },
+  {
+   "problem": "Excluded check order",
+   "rule": "Compute concrete tracks first; set 'excluded' only when nothing target-side matched, so 'Tel Aviv | London' stays europe, 'Israel' alone is dropped."
+  },
+  {
+   "problem": "US optional bucket",
+   "rule": "us_optional (high_volume_hard_visa) should be shown only if visa_flag == 'yes' or relocation text appears; otherwise drop (56% of sampled rows are US)."
+  }
+ ],
+ "validation": {
+  "strings_tested": 1395,
+  "rows_covered": 9496,
+  "source": "live greenhouse/ashby/lever feeds, 70 of 140 companies in companies.json (random sample)",
+  "class_distribution_by_rows": {
+   "us_optional": 5417,
+   "europe": 1646,
+   "other_ok": 1016,
+   "india": 509,
+   "placeholder": 412,
+   "remote_global": 209,
+   "singapore": 130,
+   "excluded": 75,
+   "other_region": 41,
+   "uae": 18,
+   "regional": 18,
+   "unclassified": 5
+  },
+  "top40_most_common": [
+   {
+    "location": "Hybrid",
+    "count": 333,
+    "class": "placeholder",
+    "countries": []
+   },
+   {
+    "location": "San Francisco",
+    "count": 305,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "San Mateo, CA, United States",
+    "count": 236,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Remote - US",
+    "count": 199,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "San Francisco, CA",
+    "count": 198,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "San Mateo, CA United States",
+    "count": 171,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "New York, NY",
+    "count": 169,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Remote - USA",
+    "count": 144,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "London",
+    "count": 141,
+    "class": "europe",
+    "countries": [
+     "United Kingdom"
+    ]
+   },
+   {
+    "location": "London, United Kingdom",
+    "count": 131,
+    "class": "europe",
+    "countries": [
+     "United Kingdom"
+    ]
+   },
+   {
+    "location": "Bengaluru, India",
+    "count": 125,
+    "class": "india",
+    "countries": [
+     "India"
+    ]
+   },
+   {
+    "location": "Southaven, MS; Memphis, TN",
+    "count": 124,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "New York",
+    "count": 123,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Palo Alto, CA",
+    "count": 110,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "United States - Remote",
+    "count": 103,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Amsterdam",
+    "count": 97,
+    "class": "europe",
+    "countries": [
+     "Netherlands"
+    ]
+   },
+   {
+    "location": "Home based - Worldwide",
+    "count": 93,
+    "class": "remote_global",
+    "countries": []
+   },
+   {
+    "location": "New York, New York, USA",
+    "count": 92,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Mountain View, CA, USA",
+    "count": 88,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Home based - EMEA",
+    "count": 85,
+    "class": "europe",
+    "countries": []
+   },
+   {
+    "location": "San Francisco, California, United States",
+    "count": 84,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Bay Area, CA, United States of America",
+    "count": 84,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Singapore",
+    "count": 82,
+    "class": "singapore",
+    "countries": [
+     "Singapore"
+    ]
+   },
+   {
+    "location": "Tokyo, Japan",
+    "count": 80,
+    "class": "other_ok",
+    "countries": [
+     "Japan"
+    ]
+   },
+   {
+    "location": "Washington, D.C.",
+    "count": 73,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "San Francisco, CA - US",
+    "count": 72,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Bangalore, India",
+    "count": 71,
+    "class": "india",
+    "countries": [
+     "India"
+    ]
+   },
+   {
+    "location": "Los Angeles, USA",
+    "count": 70,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Toronto, Ontario, Canada",
+    "count": 69,
+    "class": "other_ok",
+    "countries": [
+     "Canada"
+    ]
+   },
+   {
+    "location": "New York, New York, United States",
+    "count": 69,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Bengaluru",
+    "count": 65,
+    "class": "india",
+    "countries": [
+     "India"
+    ]
+   },
+   {
+    "location": "Sunnyvale, CA",
+    "count": 59,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "San Francisco, California",
+    "count": 58,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Sunnyvale, California USA",
+    "count": 58,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Sydney, Australia",
+    "count": 57,
+    "class": "other_ok",
+    "countries": [
+     "Australia"
+    ]
+   },
+   {
+    "location": "Paris, Paris, France",
+    "count": 57,
+    "class": "europe",
+    "countries": [
+     "France"
+    ]
+   },
+   {
+    "location": "Cary,North Carolina,United States",
+    "count": 56,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Toronto, Canada",
+    "count": 55,
+    "class": "other_ok",
+    "countries": [
+     "Canada"
+    ]
+   },
+   {
+    "location": "Denver, CO - US",
+    "count": 54,
+    "class": "us_optional",
+    "countries": [
+     "United States"
+    ]
+   },
+   {
+    "location": "Bristol, UK",
+    "count": 54,
+    "class": "europe",
+    "countries": [
+     "United Kingdom"
+    ]
+   }
+  ],
+  "adversarial_cases_tested": 36,
+  "adversarial_failures": {},
+  "misclassified": [
+   {
+    "location": "Multi-city lists mixing US + target cities (e.g. 'San Francisco | London | Berlin')",
+    "got": "europe",
+    "note": "Intended: any matching segment wins (best-of). Kept; the UI should show the full string."
+   },
+   {
+    "location": "'Finland | Remote (US)' / 'United States | Europe'",
+    "got": "europe",
+    "note": "Mixed postings are matched on the non-US segment; 'Remote (US)' qualifier may mean US-remote only. Acceptable false-positive risk."
+   },
+   {
+    "location": "'Wilmington, DE' (Delaware)",
+    "got": "unclassified",
+    "note": "', DE' is no longer a US-state signal (Berlin, DE is far more common). Delaware postings fall to unclassified rather than europe."
+   },
+   {
+    "location": "'Georgia' / 'Tbilisi, Georgia'",
+    "got": "unclassified",
+    "note": "Deliberately untracked: collides with US state."
+   },
+   {
+    "location": "'Hybrid', 'In-Office', 'BLANK,BLANK,Multiple Locations'",
+    "got": "placeholder",
+    "note": "No geography; 412/9496 rows (4.3%). Cannot be classified from location alone."
+   }
+  ],
+  "unclassified_common": [
+   {
+    "location": "Wilmington, DE",
+    "count": 1
+   },
+   {
+    "location": "Crestwood, IL",
+    "count": 1
+   },
+   {
+    "location": "Georgia",
+    "count": 1
+   },
+   {
+    "location": "Elk Grove Village, IL - Data Center",
+    "count": 1
+   },
+   {
+    "location": "Western Region",
+    "count": 1
+   }
+  ],
+  "fixes_made_during_validation": [
+   "', CA' / ', MA' / ', TX' etc. and '- CA' after 'Remote' now count as US-state signals (initial run sent 'Remote - CA' to remote_global)",
+   "Removed 'york','salem','kota','derby','warwick' city tokens: 'New York' matched UK 'york', 'Winston-Salem, NC' matched India 'salem'",
+   "Regex escape bug: 'd.c.' in US list matched 'dach' (DACH -> US); escaped",
+   "Removed ISO-2 'it','be','at','is' and 'est' ISO-3 (Remote - IT, '(EST)' timezone -> Estonia)",
+   "Removed 'DE' from US-state codes ('Berlin, DE' was classified US)",
+   "Removed 'georgia' and 'america' tokens (state / 'Americas')",
+   "With an explicit US signal (state code, 'United States'), all city-level matches are suppressed ('Vancouver, WA', 'Dublin, OH', 'Cambridge, MA')",
+   "Added 'other_region' class (Americas, NAMER, LATAM) so 'Remote-NAMER' is not remote_global",
+   "Bare 'Remote' segment is ignored when another segment in the same string has a concrete geography",
+   "Added ~150 extra city tokens seen in feeds (Maastricht, Annecy, Metz, Niort, Brussel, ...)"
+  ]
+ },
+ "sources": [
+  "https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card",
+  "https://ind.nl/en/residence-permits/work/highly-skilled-migrant",
+  "https://www.mom.gov.sg/passes-and-permits/employment-pass",
+  "https://www.mom.gov.sg/passes-and-permits/employment-pass/passes-and-permits/compass",
+  "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa",
+  "https://france-visas.gouv.fr/en/web/france-visas/talent-passport",
+  "https://www.inclusion.gob.es/web/migraciones",
+  "https://www.gov.uk/skilled-worker-visa",
+  "https://www.gov.uk/global-talent",
+  "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/",
+  "https://www.sem.admin.ch/sem/en/home/themen/arbeit.html",
+  "https://www.migrationsverket.se/en/you-want-to-apply/work.html",
+  "https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work",
+  "https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers/",
+  "https://migri.fi/en/work-in-finland",
+  "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/red-white-red-card/",
+  "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html",
+  "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/global-talent-stream.html",
+  "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skills-in-demand-482",
+  "https://www.immigration.govt.nz/new-zealand-visas/visas/visa/accredited-employer-work-visa",
+  "https://www.moj.go.jp/isa/applications/procedures/16-2.html",
+  "https://www.hikorea.go.kr",
+  "https://www.immd.gov.hk/eng/services/visas/GEP.html",
+  "https://goldcard.nat.gov.tw/en/",
+  "https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations",
+  "https://www.taftlaw.com/news-events/law-bulletins/the-2026-h-1b-cap-season-is-approaching-lottery-fees-and-new-selection-process/",
+  "https://aldaglegal.com/eu-blue-card-germany-2026/"
+ ]
+}
